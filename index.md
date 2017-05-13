@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[zfme](https://zfme.biol.uw.edu.pl) and ![Image](src)
+[SOAPdenovo](https://github.com/aquaskyline/SOAPdenovo2) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
