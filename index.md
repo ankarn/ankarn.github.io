@@ -32,23 +32,19 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 We are using several **assemblers**
 
-1. SOAPdenovo
+1. SOAPdenovo  
 [SOAPdenovo](https://github.com/aquaskyline/SOAPdenovo2)
 
 2. SPADes
 
-I can start with that command line, -o output, -t numer of threads
-`<spades -k 21,33,55,77,99,127 --only-assembler -o -1 -2 -t 4 `
+I can start with that command line, -o output, -t numer of threads  
+`spades -k 21,33,55,77,99,127 --only-assembler -o -1 -2 -t 4 `
 
 3. MIRA
 
 
-As Kanye West said:
+Message from Ania:
 
-> We're living the future so
-> the present is our past.
-
-I think that is all for now, I will continue developing the site very soon. 
-:sweat_drops:
+> I think that is all for now, I will continue developing the site very soon. :sweat_drops:
 
 
