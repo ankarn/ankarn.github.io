@@ -1,4 +1,5 @@
-# Welcome to the zfme repository
 
-Here we will document programs and workflows we are using in our lab  
-If you want to know about what we are working on visit our [webpage](http://zfme.biol.uw.edu.pl)
+# ZFME repository
+
+Welcome to the repository of our lab, where we store information abotu software and pipelines we are using  
+More about our research at the [webpage](http://zfme.biol.uw.edu.pl)
