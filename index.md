@@ -34,7 +34,7 @@ We are using several **assemblers**
 
 2. SPADes
 
-I can start with that command line, -o output, -t numer of threads  
+You can start with that command line, -o output, -t numer of threads  
 `spades -k 21,33,55,77,99,127 --only-assembler -o -1 -2 -t 4 `
 
 3. MIRA
