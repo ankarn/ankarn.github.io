@@ -17,9 +17,6 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -41,7 +38,7 @@ I can start with that command line, -o output, -t numer of threads
 `spades -k 21,33,55,77,99,127 --only-assembler -o -1 -2 -t 4 `
 
 3. MIRA
-
+     
 
 Message from Ania:
 
