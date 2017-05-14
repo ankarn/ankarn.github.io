@@ -6,5 +6,5 @@ One of the most commonly used tools for the basic quality control of the raw rea
 
 `fastqc <file.fastq>`
 
-Results are in the file .html, you have to download them to your desktop and view in the webbrowser. Currently we can not view .html files at the server.  
+Results are in the .html file, you have to download them to your desktop and view in the webbrowser. Currently we can not view .html files at the server.  
 
