@@ -1,4 +1,4 @@
-#Quality Control
+# Quality Control
 
 [fastqc](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/)  
 
