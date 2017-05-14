@@ -2,7 +2,7 @@
 
 **Don't panic!** :cold_sweat:
 
-1. [Quality control] (../qc.md)  
+1. [Quality control] (./qc.md)  
 2. Trimming
 3. Merging pared data
 4. Initial genome assembly (genome assembly/genome assembly.md)
