@@ -10,5 +10,5 @@ Results are in the .html file, you have to download them to your desktop and vie
 
 It should look more or less like that.
 
-![Screenshot](../lib.png)
+![Screenshot](../lib/qc_screen.png)
 
