@@ -1,4 +1,4 @@
-# Welcome to our lab virtual lab notebook
+# Welcome to our lab virtual notebook
 
 Message from Ania:
 
