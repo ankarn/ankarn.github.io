@@ -14,9 +14,9 @@ You can start with that command line, -o output, -t numer of threads
 
 4. MIRA  
 
-5. Organelle assembler
+5. Organelle assembler  
 
 [NOVOPlasty](https://github.com/ndierckx/NOVOPlasty)
 
-6. Plastid assembler (not tested by Ania)  
+6. Plastid assembler (not tested by Ania)   
 [Fast-Plast](https://github.com/mrmckain/Fast-Plast)
