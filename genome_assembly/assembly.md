@@ -14,7 +14,7 @@ You can start with that command line, -o output, -t numer of threads
 
 4. MIRA  
 
-5. Organelle assembler  
+5. The organelle assembler  
 
 [NOVOPlasty](https://github.com/ndierckx/NOVOPlasty)
 
