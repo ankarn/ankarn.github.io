@@ -28,4 +28,4 @@ Quality encoding detected as phred33
 Input Read Pairs: 4459091 Both Surviving: 4445833 (99,70%) Forward Only Surviving: 7613 (0,17%) Reverse Only Surviving: 5625 (0,13%) Dropped: 20 (0,00%)
 TrimmomaticPE: Completed successfully`
 
-Output will contain four file, two files with the left reads and two with right reads, for each of them there will be one file with reads, which still have pair (new_name_for_left_paired.fastq) and one file with reads, which lost their pair during trimmming (new_name_left_unpaired.fastq)  
+Output will contain four files, two files with the left reads and two with right reads, for each of them there will be one file with reads, which still have pair (new_name_for_left_paired.fastq) and one file with reads, which lost their pair during trimmming (new_name_left_unpaired.fastq)  
