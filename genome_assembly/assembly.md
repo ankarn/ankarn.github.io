@@ -13,3 +13,10 @@ You can start with that command line, -o output, -t numer of threads
 [Ray](http://denovoassembler.sourceforge.net/manual.html)
 
 4. MIRA  
+
+5. Organelle assembler
+
+[NOVOPlasty]https://github.com/ndierckx/NOVOPlasty
+
+6. Plastid assembler (not tested by Ania)  
+[Fast-Plast](https://github.com/mrmckain/Fast-Plast)
