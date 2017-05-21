@@ -7,6 +7,6 @@
 3. Merging pared data
 4. [Initial genome assembly](assembly.md)
 5. Evaluating genome assembly quality
-6. Contamination estimation
+6. [Contamination estimation](contamination.md)
 7. Completeness estimation
 8. Final genome assembly
