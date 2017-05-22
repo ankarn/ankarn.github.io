@@ -25,7 +25,7 @@ You can start with that command line, -o output, -t numer of threads
 **Project name**         = Choose a name for your project, it will be used for the output files  
 **Insert size**          = Total insert size of your paired end reads, it doesn't have to be accurate but should be close enough  
 **Insert size aut**      = yes/no [default: yes; choose yes if you ae not sure what is the insert size]   
-**Read Length**          = The read length of your reads [figre out, for example based on qc report]  
+**Read Length**          = The read length of your reads [figure it out, for example based on qc report]  
 **Type**              = chloro/mito/mito_plant  
 **Genome Range**         = The expected genome size range of the genome  [Default 700000-2000000; check closely elated organisms to adjust that number]  
 **K-mer**                = This is the length of the overlap between matching reads [I never change that if I have reads longer than 100 bp]    
