@@ -33,7 +33,7 @@ configuration file preparation
 **Chloroplast sequence** = The path to the file that contains the chloroplast sequence (Only for mito_plant mode).  
 
 
-2. Fast-Plast (not tested by Ania, under construction)  
+2. Fast-Plast (Ania is testing)  
 [Fast-Plast](https://github.com/mrmckain/Fast-Plast)
 
 Input files might be not quality trimmed and with adaptors, everything will be prepared during the run. There are ready to use bowtie indexes for various groups of plants and algae but there is also option of custom index.  
