@@ -34,3 +34,10 @@ configuration file preparation
 
 6. Plastid assembler (not tested by Ania, under construction)   
 [Fast-Plast](https://github.com/mrmckain/Fast-Plast)
+
+--bowtie_index Mamiellales, Euglenales [check manual for all possible options]
+--adapter [NEB|Nextera|TruSeq]
+--coverage_analysis [recommended]
+--clean light 
+
+` perl /home/ankarn/bin/Fast-Plast/fast-plast.pl -1 left.fastq -2 right.fastq -n test --threads 6 --bowtie_index	Euglenales --adapters TruSeq --coverage_analysis --clean light`
