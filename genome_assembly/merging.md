@@ -4,4 +4,4 @@
 
 `pear -f left.fastq -r right.fastq -o output`
 
-Usage: use at non-trimmed reads  
+Usage: use at non-trimmed reads with removed adaptors
