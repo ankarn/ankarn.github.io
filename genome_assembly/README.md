@@ -4,7 +4,7 @@
 
 1. [Quality control](qc.md)  
 2. [Trimming](trimming.md)
-3. Merging reads
+3. [Merging reads](merging.md)
 4. [Initial genome assembly](assembly.md)
 5. [Organellar genome assembly](organelle_assembly.md)
 6. Evaluating genome assembly quality
