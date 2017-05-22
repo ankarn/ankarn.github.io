@@ -3,7 +3,7 @@
 **Don't panic!** :cold_sweat:
 
 1. [Quality control](qc.md)  
-2. Trimming
+2. [Trimming](trimming.md)
 3. Merging reads
 4. [Initial genome assembly](assembly.md)
 5. [Organellar genome assembly](organelle_assembly.md)
