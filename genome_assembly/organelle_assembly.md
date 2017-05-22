@@ -32,10 +32,11 @@ configuration file preparation
 **Chloroplast sequence** = The path to the file that contains the chloroplast sequence (Only for mito_plant mode).  
 
 
-6. Plastid assembler (not tested by Ania, under construction)   
+2. Plastid assembler (not tested by Ania, under construction)   
 [Fast-Plast](https://github.com/mrmckain/Fast-Plast)
 
-Input files might be not trimmed with adaptors, everything will be prepared during the run  
+Input files might be not trimmed with adaptors, everything will be prepared during the run 
+
 --bowtie_index Mamiellales, Euglenales [check manual for all possible options]  
 --adapter [NEB|Nextera|TruSeq]  
 --coverage_analysis [recommended]  
