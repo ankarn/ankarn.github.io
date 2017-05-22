@@ -37,7 +37,7 @@ configuration file preparation
 
 Input files might be not quality trimmed and with adaptors, everything will be prepared during the run. There are ready to use bowtie indexes for various groups of plants and algae but there is also option of custom index.  
 
-*There is a problem when the genome doesn't contain IR.*  
+*It is not working very well when there are no IR regions, might be not useful for Euglenales*  
 
 --bowtie_index Mamiellales, Euglenales [check manual for all possible options]  
 --adapter [NEB|Nextera|TruSeq]  
