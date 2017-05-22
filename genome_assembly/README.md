@@ -6,7 +6,7 @@
 2. Trimming
 3. Merging pared data
 4. [Initial genome assembly](assembly.md)
-5. [Organellar genome assembly](organelle_assembly)
+5. [Organellar genome assembly](organelle_assembly.md)
 6. Evaluating genome assembly quality
 7. [Contamination estimation](contamination.md)
 8. Completeness estimation
