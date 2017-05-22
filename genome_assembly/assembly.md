@@ -18,9 +18,11 @@ You can start with that command line, -o output, -t numer of threads
 
 [NOVOPlasty](https://github.com/ndierckx/NOVOPlasty)
 
-configuration file
+`perl /opt/NOVOPlasty/NOVOPlasty2.5.9.pl config.txt`
 
-Project name         = Choose a name for your project, it will be used for the output files  
+### configuration file preparation
+
+**Project name**         = Choose a name for your project, it will be used for the output files  
 Insert size          = Total insert size of your paired end reads, it doesn't have to be accurate but should be close enough  
 Insert size aut      = yes/no [default: yes]  
 Read Length          = The read length of your reads  
