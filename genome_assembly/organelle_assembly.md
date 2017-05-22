@@ -4,6 +4,8 @@
 
 [NOVOPlasty](https://github.com/ndierckx/NOVOPlasty)
 
+Useful for plastid, mitochondrial and plants mitochondrial genomes. Requires seed. 
+
 `perl /home/ankarn/bin/NOVOPlasty/NOVOPlasty2.5.9.pl -c config.txt`
 
 configuration file preparation
@@ -32,10 +34,10 @@ configuration file preparation
 **Chloroplast sequence** = The path to the file that contains the chloroplast sequence (Only for mito_plant mode).  
 
 
-2. Plastid assembler (not tested by Ania, under construction)   
+2. Fast-Plast (not tested by Ania, under construction)   
 [Fast-Plast](https://github.com/mrmckain/Fast-Plast)
 
-Input files might be not trimmed with adaptors, everything will be prepared during the run 
+Input files might be not quality trimmed and with adaptors, everything will be prepared during the run. There are ready to use bowtie indexes for various groups of plants and algae but there is also option of custom index.  
 
 --bowtie_index Mamiellales, Euglenales [check manual for all possible options]  
 --adapter [NEB|Nextera|TruSeq]  
