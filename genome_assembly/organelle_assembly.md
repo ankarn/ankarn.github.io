@@ -28,7 +28,7 @@ configuration file preparation
 **Combined reads**       = The path to the file that contains the combined reads (forward and reverse in 1 file) [very rare case; otherwise leave it blank] 
 **Forward reads**        = The path to the file that contains the forward reads (not necessary when there is a merged file)  
 **Reverse reads**       = The path to the file that contains the reverse reads (not necessary when there is a merged file)  
-**Seed Input**          = The path to the file that contains the seed sequence. [you have to find and download the proper seed file; that could be conserved organellar gene or the genome of closely related species]  
+**Seed Input**          = The path to the file that contains the seed sequence. [you have to find and download the proper seed file; that could be conserved organellar gene from the same or very similar genome or the genome of related species; NOVOPlasty will inform you if the seed is not valid]  
 **Chloroplast sequence** = The path to the file that contains the chloroplast sequence (Only for mito_plant mode).  
 
 
