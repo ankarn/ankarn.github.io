@@ -33,17 +33,17 @@ You can start with that command line, -o output, -t numer of threads
                        For reads longer then 101 bp, this value can be increased, but this is not necessary. [default: 39]  
 **Insert Range**         = This variation on the insert size, could lower it when the coverage is very high or raise it when the
                        coverage is too low [Default: 1.6; use default in the first run].  
-Insert Range strict  = Strict variation to resolve repetitive regions [Default: 1.2; use default in the first run]  
-Single/Paired        = PE [For the moment only paired end reads are supported]  
-Max memory           = You can choose a max memory usage if you work on deskktop, leave it blank for the server  
-Coverage Cut off     = You can speed up the assembly by lowering the coverage cut off, standard it will use up to 1000 coverage  
-Extended log         = Prints out a very extensive log, could be useful to send me when there is a problem  (0/1)  
-Save assembled reads = All the reads used for the assembly will be stored in seperate files (yes/no)  
-Combined reads       = The path to the file that contains the combined reads (forward and reverse in 1 file)  
-Forward reads        = The path to the file that contains the forward reads (not necessary when there is a merged file)  
-Reverse reads        = The path to the file that contains the reverse reads (not necessary when there is a merged file)  
-Seed Input           = The path to the file that contains the seed sequence.   
-Chloroplast sequence = The path to the file that contains the chloroplast sequence (Only for mito_plant mode).  
+**Insert Range strict**  = Strict variation to resolve repetitive regions [Default: 1.2; use default in the first run]  
+**Single/Paired**        = PE [For the moment only paired end reads are supported]  
+**Max memory**          = You can choose a max memory usage if you work on deskktop, leave it blank for the server  
+**Coverage Cut off**     = You can speed up the assembly by lowering the coverage cut off, standard it will use up to 1000 coverage  
+**Extended log**        = Prints out a very extensive log, could be useful to send me when there is a problem  (0/1)  
+**Save assembled reads** = All the reads used for the assembly will be stored in seperate files (yes/no)  
+**Combined reads**       = The path to the file that contains the combined reads (forward and reverse in 1 file) [very rare case; otherwise leave it blank] 
+**Forward reads**        = The path to the file that contains the forward reads (not necessary when there is a merged file)  
+**Reverse reads**       = The path to the file that contains the reverse reads (not necessary when there is a merged file)  
+**Seed Input**          = The path to the file that contains the seed sequence. [you have to find and download the proper seed file; that could be conserved organellar gene or the genome of closely related species]  
+**Chloroplast sequence** = The path to the file that contains the chloroplast sequence (Only for mito_plant mode).  
 
 
 6. Plastid assembler (not tested by Ania)   
