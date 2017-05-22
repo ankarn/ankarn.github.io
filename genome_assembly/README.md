@@ -1,4 +1,4 @@
-# What to do when you get your raw genomic data 
+# What to do when you get your raw reads 
 
 **Don't panic!** :cold_sweat:
 
