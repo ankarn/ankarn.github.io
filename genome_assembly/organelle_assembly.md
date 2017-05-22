@@ -1,26 +1,12 @@
-### Genome assembly
+# Organellar genome assembly
 
-
-1. SOAPdenovo  
-[SOAPdenovo](https://github.com/aquaskyline/SOAPdenovo2)
-
-2. SPADes
-
-You can start with that command line, -o output, -t numer of threads  
-`spades -k 21,33,55,77,99,127 --only-assembler -o -1 -2 -t 4 `  
-
-3. Ray  
-[Ray](http://denovoassembler.sourceforge.net/manual.html)
-
-4. MIRA  
-
-5. The organelle assembler NOVOPlasty v.2.5.9
+1. NOVOPlasty v.2.5.9
 
 [NOVOPlasty](https://github.com/ndierckx/NOVOPlasty)
 
-`perl /opt/NOVOPlasty/NOVOPlasty2.5.9.pl -c config.txt`
+`perl /home/ankarn/bin/NOVOPlasty/NOVOPlasty2.5.9.pl -c config.txt`
 
-### configuration file preparation
+configuration file preparation
 
 **Project name**         = Choose a name for your project, it will be used for the output files  
 **Insert size**          = Total insert size of your paired end reads, it doesn't have to be accurate but should be close enough  
@@ -46,5 +32,5 @@ You can start with that command line, -o output, -t numer of threads
 **Chloroplast sequence** = The path to the file that contains the chloroplast sequence (Only for mito_plant mode).  
 
 
-6. Plastid assembler (not tested by Ania)   
+6. Plastid assembler (not tested by Ania, under construction)   
 [Fast-Plast](https://github.com/mrmckain/Fast-Plast)
