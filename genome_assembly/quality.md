@@ -1,4 +1,4 @@
-# Estimation of the genome assembly
+# Estimation of the genome assembly quality
 
 1. [QUAST](http://bioinf.spbau.ru/quast)  
 Useful tool for comparison of basic metrics of assemblies  
@@ -33,4 +33,4 @@ generowanie indeksu
 `/home/ankarn/bin/STAR-2.5.3a/bin/Linux_x86_64/STAR --runThreadN n --runMode genomeGenerate --genomeDir <ścieżka do folderu z indeksem> --limitGenomeGenerateRAM 166028754304 --genomeFastaFiles <ścieżka do assembly genomu>`   
 
 mapowanie   
-`/home/ankarn/bin/STAR-2.5.3a/bin/Linux_x86_64/STAR --runThreadN 16 --genomeDir <ścieżka indeks> --readFilesIn <ścieżka_lewy_odczyt> <ścieżka prawy odczyt> --outFileNamePrefix <ścieżka i prefix do output> --outSAMtype BAM SortedByCoordinate`
+`/home/ankarn/bin/STAR-2.5.3a/bin/Linux_x86_64/STAR --runThreadN n --genomeDir <ścieżka indeks> --readFilesIn <ścieżka_lewy_odczyt> <ścieżka prawy odczyt> --outFileNamePrefix <ścieżka i prefix do output> --outSAMtype BAM SortedByCoordinate`
