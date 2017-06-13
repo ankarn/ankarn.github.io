@@ -26,8 +26,8 @@ dla odczytów połączonych (np. po obróbce w programie PEAR) komenda:
 
 [STAR](https://github.com/alexdobin/STAR)   
 
-utworzyć folde, w którym będzie indeks
-`mkdir <nazwa>`
+utworzyć folder, w którym będzie indeks   
+`mkdir <nazwa>`    
 
 generowanie indeksu   
 `/home/ankarn/bin/STAR-2.5.3a/bin/Linux_x86_64/STAR --runThreadN n --runMode genomeGenerate --genomeDir <ścieżka do folderu z indeksem> --limitGenomeGenerateRAM 166028754304 --genomeFastaFiles <ścieżka do assembly genomu>`   
