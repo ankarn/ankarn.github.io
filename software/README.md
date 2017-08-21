@@ -68,6 +68,10 @@ SAM Tools provide various utilities for manipulating alignments in the SAM forma
 
 [samtools cheatsheet](https://davetang.org/wiki/tiki-index.php?page=SAMTools)
 
+12. [bedtools](http://bedtools.readthedocs.io/en/latest/)
+
+version 2.25.0
+
 
 
 
