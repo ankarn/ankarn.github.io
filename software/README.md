@@ -42,4 +42,10 @@ version 2.1.0
 
 TopHat is a fast splice junction mapper for RNA-Seq reads.
 
+8. [sra-toolkit](https://www.ncbi.nlm.nih.gov/books/NBK158900/)
+
+version 2.3.5-2
+
+The SRA Toolkit will allow you to programmatically access data housed within SRA and convert it from the SRA format to the other formats.
+
 
