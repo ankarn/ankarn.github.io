@@ -60,6 +60,16 @@ version 2.4.0
 
 Bamtools is a command-line toolkit for reading, writing, and manipulating BAM (genome alignment) files. 
 
+11. [samtools](http://samtools.sourceforge.net)
+
+Version: 0.1.19-96b5f2294a
+
+SAM Tools provide various utilities for manipulating alignments in the SAM format, including sorting, merging, indexing and generating alignments in a per-position format.
+
+[samtools cheatsheet](https://davetang.org/wiki/tiki-index.php?page=SAMTools)
+
+
+
 
 
 
