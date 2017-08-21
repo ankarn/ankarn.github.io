@@ -78,6 +78,12 @@ version 4.6
 
 CD-HIT is a very widely used program for clustering and comparing protein or nucleotide sequences.
 
+14. [bwa](http://bio-bwa.sourceforge.net)
+
+version 0.7.12-r1039
+
+BWA is a software package for mapping low-divergent sequences against a large reference genome, such as the human genome.
+
 
 
 
