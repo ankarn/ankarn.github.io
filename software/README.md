@@ -1,7 +1,7 @@
 ### List of the software ###
 
 [tmux](https://github.com/tmux/tmux/wiki) 
-tmux is a terminal multiplexer. It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. 
+is a terminal multiplexer. It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. 
 
 [tmux cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
 
