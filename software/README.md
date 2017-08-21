@@ -42,4 +42,64 @@ version 2.1.0
 
 TopHat is a fast splice junction mapper for RNA-Seq reads.
 
+8. [sra-toolkit](https://www.ncbi.nlm.nih.gov/books/NBK158900/)
+
+version 2.3.5-2
+
+The SRA Toolkit will allow you to programmatically access data housed within SRA and convert it from the SRA format to the other formats.
+
+9. [blast](https://www.ncbi.nlm.nih.gov/books/NBK279690/)
+
+version 2.2.31+
+
+Basic Local Alignment Search Tool (BLAST) is probably the most popular similarity search tool. Sequence similarity searching is one of the more important bioinformatics activities and often provides the first evidence for the function of a newly sequenced gene or piece of sequence. 
+
+10. [bamtools](https://github.com/pezmaster31/bamtools/wiki)
+
+version 2.4.0
+
+Bamtools is a command-line toolkit for reading, writing, and manipulating BAM (genome alignment) files. 
+
+11. [samtools](http://samtools.sourceforge.net)
+
+Version: 0.1.19-96b5f2294a
+
+SAM Tools provide various utilities for manipulating alignments in the SAM format, including sorting, merging, indexing and generating alignments in a per-position format.
+
+[samtools cheatsheet](https://davetang.org/wiki/tiki-index.php?page=SAMTools)
+
+12. [bedtools](http://bedtools.readthedocs.io/en/latest/)
+
+version 2.25.0
+
+13. [cdhit](http://weizhongli-lab.org/cd-hit/)
+
+version 4.6
+
+CD-HIT is a very widely used program for clustering and comparing protein or nucleotide sequences.
+
+14. [bwa](http://bio-bwa.sourceforge.net)
+
+version 0.7.12-r1039
+
+BWA is a software package for mapping low-divergent sequences against a large reference genome, such as the human genome.
+
+15. [fastx-toolkit](http://hannonlab.cshl.edu/fastx_toolkit/)
+
+version 0.0.14
+
+The FASTX-Toolkit is a collection of command line tools for Short-Reads FASTA/FASTQ files preprocessing.
+
+16. [gmap](http://research-pub.gene.com/gmap/src/README)
+
+version 2015-12-31
+
+GMAP: a genomic mapping and alignment program for mRNA and EST sequences
+
+[aligner tutorial](https://github.com/PacificBiosciences/cDNA_primer/wiki/Aligner-tutorial:-GMAP,-STAR,-BLAT,-and-BLASR#refgmap)
+
+
+
+
+
 
