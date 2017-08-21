@@ -30,4 +30,10 @@ version version 2.1.8
 
 FastTree infers approximately-maximum-likelihood phylogenetic trees from alignments of nucleotide or protein sequences
 
+6. [bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml)
+
+version 2.2.6
+
+Bowtie 2 is an ultrafast and memory-efficient tool for aligning sequencing reads to long reference sequences.
+
 
