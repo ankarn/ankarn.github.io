@@ -84,7 +84,11 @@ version 0.7.12-r1039
 
 BWA is a software package for mapping low-divergent sequences against a large reference genome, such as the human genome.
 
+15. [fastx-toolkit](http://hannonlab.cshl.edu/fastx_toolkit/)
 
+version 0.0.14
+
+The FASTX-Toolkit is a collection of command line tools for Short-Reads FASTA/FASTQ files preprocessing.
 
 
 
