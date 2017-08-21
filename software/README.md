@@ -54,6 +54,13 @@ version 2.2.31+
 
 Basic Local Alignment Search Tool (BLAST) is probably the most popular similarity search tool. Sequence similarity searching is one of the more important bioinformatics activities and often provides the first evidence for the function of a newly sequenced gene or piece of sequence. 
 
+10. [bamtools](https://github.com/pezmaster31/bamtools/wiki)
+
+version 2.4.0
+
+Bamtools is a command-line toolkit for reading, writing, and manipulating BAM (genome alignment) files. 
+
+
 
 
 
