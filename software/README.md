@@ -8,5 +8,15 @@ tmux is a terminal multiplexer. It lets you switch easily between several progra
 
 2. [raxmlHPC](http://www.exelixis-lab.org)
 
+version 8.2.4
+
 Standard tool for Maximum-likelihood based phylogenetic inference.
+
+3. [iqtree](http://www.iqtree.org/doc/)
+
+version 1.3.11.1 built Feb  1 2016 (quite old)
+
+Efficient phylogenomic software by maximum likelihood
+
+
 
