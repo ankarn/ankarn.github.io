@@ -18,5 +18,10 @@ version 1.3.11.1 built Feb  1 2016 (quite old)
 
 Efficient phylogenomic software by maximum likelihood
 
+4. [mafft](http://mafft.cbrc.jp/alignment/software/)
+
+version 7.271
+
+MAFFT is a multiple sequence alignment program for unix-like operating systems.
 
 
