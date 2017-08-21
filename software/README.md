@@ -90,6 +90,14 @@ version 0.0.14
 
 The FASTX-Toolkit is a collection of command line tools for Short-Reads FASTA/FASTQ files preprocessing.
 
+16. [gmap](http://research-pub.gene.com/gmap/src/README)
+
+version 2015-12-31
+
+[aligner tutorial](https://github.com/PacificBiosciences/cDNA_primer/wiki/Aligner-tutorial:-GMAP,-STAR,-BLAT,-and-BLASR#refgmap)
+
+GMAP: a genomic mapping and alignment program for mRNA and EST sequences
+
 
 
 
