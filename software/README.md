@@ -94,9 +94,9 @@ The FASTX-Toolkit is a collection of command line tools for Short-Reads FASTA/FA
 
 version 2015-12-31
 
-[aligner tutorial](https://github.com/PacificBiosciences/cDNA_primer/wiki/Aligner-tutorial:-GMAP,-STAR,-BLAT,-and-BLASR#refgmap)
-
 GMAP: a genomic mapping and alignment program for mRNA and EST sequences
+
+[aligner tutorial](https://github.com/PacificBiosciences/cDNA_primer/wiki/Aligner-tutorial:-GMAP,-STAR,-BLAT,-and-BLASR#refgmap)
 
 
 
