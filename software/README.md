@@ -72,6 +72,13 @@ SAM Tools provide various utilities for manipulating alignments in the SAM forma
 
 version 2.25.0
 
+13. [cdhit](http://weizhongli-lab.org/cd-hit/)
+
+version 4.6
+
+CD-HIT is a very widely used program for clustering and comparing protein or nucleotide sequences.
+
+
 
 
 
