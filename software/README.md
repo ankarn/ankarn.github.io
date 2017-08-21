@@ -6,3 +6,7 @@ tmux is a terminal multiplexer. It lets you switch easily between several progra
 
 [tmux cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
 
+2. [raxmlHPC](http://www.exelixis-lab.org)
+
+Standard tool for Maximum-likelihood based phylogenetic inference.
+
