@@ -36,4 +36,10 @@ version 2.2.6
 
 Bowtie 2 is an ultrafast and memory-efficient tool for aligning sequencing reads to long reference sequences.
 
+7. [tophat](https://ccb.jhu.edu/software/tophat/index.shtml)
+
+version 2.1.0
+
+TopHat is a fast splice junction mapper for RNA-Seq reads.
+
 
