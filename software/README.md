@@ -48,4 +48,12 @@ version 2.3.5-2
 
 The SRA Toolkit will allow you to programmatically access data housed within SRA and convert it from the SRA format to the other formats.
 
+9. [blast](https://www.ncbi.nlm.nih.gov/books/NBK279690/)
+
+version 2.2.31+
+
+Basic Local Alignment Search Tool (BLAST) is probably the most popular similarity search tool. Sequence similarity searching is one of the more important bioinformatics activities and often provides the first evidence for the function of a newly sequenced gene or piece of sequence. 
+
+
+
 
