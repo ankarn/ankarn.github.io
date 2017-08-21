@@ -24,4 +24,10 @@ version 7.271
 
 MAFFT is a multiple sequence alignment program for unix-like operating systems.
 
+5. [fasttreeMP](http://www.microbesonline.org/fasttree/)
+
+version version 2.1.8
+
+FastTree infers approximately-maximum-likelihood phylogenetic trees from alignments of nucleotide or protein sequences
+
 
