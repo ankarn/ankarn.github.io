@@ -98,6 +98,12 @@ GMAP: a genomic mapping and alignment program for mRNA and EST sequences
 
 [aligner tutorial](https://github.com/PacificBiosciences/cDNA_primer/wiki/Aligner-tutorial:-GMAP,-STAR,-BLAT,-and-BLASR#refgmap)
 
+17. [EMBOSS](http://emboss.sourceforge.net/what/)
+
+version 6.6.0.0
+
+EMBOSS is "The European Molecular Biology Open Software Suite". EMBOSS is a free Open Source software analysis package specially developed for the needs of the molecular biology (e.g. EMBnet) user community. 
+
 
 
 
