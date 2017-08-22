@@ -110,6 +110,30 @@ versin 2.1
 
 ProtTest is a bioinformatic tool for the selection of best-fit models of aminoacid replacement for the data at hand.
 
+19. [readal](http://trimal.cgenomics.org/use_of_the_readal_v1.2)
+
+version 1.2rev59
+
+readAl reads protein or nucleotide alignments in several Multiple Sequence Alignment formats, including Phylip, Fasta, Clustal, NBRF/Pir, Mega and Nexus. The program detects automatically the input format and converts the alignment to other available formats.
+
+20. [trimal](http://trimal.cgenomics.org)
+
+version 1.2rev59
+
+trimAl is a tool for the automated removal of spurious sequences or poorly aligned regions from a multiple sequence alignment
+
+21. [PartitionFinder](http://www.robertlanfear.com/partitionfinder/tutorial/)
+
+PartitionFinder is software to select best-fit partitioning schemes and models of molecular evolution for phylogenetic analyses.
+
+22. [MrBayes](http://mrbayes.sourceforge.net)
+
+version 3.2.6
+
+MrBayes is a program for Bayesian inference and model choice across a wide range of phylogenetic and evolutionary models. MrBayes uses Markov chain Monte Carlo (MCMC) methods to estimate the posterior distribution of model parameters.
+
+`mb` `mb-mpi`
+
 
 
 
