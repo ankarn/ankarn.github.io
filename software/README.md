@@ -24,6 +24,8 @@ version 7.271
 
 MAFFT is a multiple sequence alignment program for unix-like operating systems.
 
+`mafft in > out`
+
 5. [fasttreeMP](http://www.microbesonline.org/fasttree/)
 
 version version 2.1.8
@@ -53,6 +55,8 @@ The SRA Toolkit will allow you to programmatically access data housed within SRA
 version 2.2.31+
 
 Basic Local Alignment Search Tool (BLAST) is probably the most popular similarity search tool. Sequence similarity searching is one of the more important bioinformatics activities and often provides the first evidence for the function of a newly sequenced gene or piece of sequence. 
+
+`blastn` `blastp` `blastx` `tblastn` `makeblastdb` `blastdbcmd`
 
 10. [bamtools](https://github.com/pezmaster31/bamtools/wiki)
 
