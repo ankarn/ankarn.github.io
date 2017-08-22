@@ -78,6 +78,8 @@ version 4.6
 
 CD-HIT is a very widely used program for clustering and comparing protein or nucleotide sequences.
 
+`cdhit` `cdhit-2d` `cdhit-454` `cdhit-est` `cdhit-est-2d` `cd-hit-2d-para` `cd-hit-div` `cd-hit-para`
+
 14. [bwa](http://bio-bwa.sourceforge.net)
 
 version 0.7.12-r1039
@@ -106,7 +108,7 @@ EMBOSS is "The European Molecular Biology Open Software Suite". EMBOSS is a free
 
 18. [prottest](https://github.com/ddarriba/prottest3)
 
-versin 2.1
+version 2.1
 
 ProtTest is a bioinformatic tool for the selection of best-fit models of aminoacid replacement for the data at hand.
 
@@ -121,6 +123,8 @@ readAl reads protein or nucleotide alignments in several Multiple Sequence Align
 version 1.2rev59
 
 trimAl is a tool for the automated removal of spurious sequences or poorly aligned regions from a multiple sequence alignment
+
+`trimal`
 
 21. [PartitionFinder](http://www.robertlanfear.com/partitionfinder/tutorial/)
 
