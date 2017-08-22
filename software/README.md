@@ -104,6 +104,12 @@ version 6.6.0.0
 
 EMBOSS is "The European Molecular Biology Open Software Suite". EMBOSS is a free Open Source software analysis package specially developed for the needs of the molecular biology (e.g. EMBnet) user community. 
 
+18. [prottest](https://github.com/ddarriba/prottest3)
+
+versin 2.1
+
+ProtTest is a bioinformatic tool for the selection of best-fit models of aminoacid replacement for the data at hand.
+
 
 
 
