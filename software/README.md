@@ -24,6 +24,8 @@ version 7.271
 
 MAFFT is a multiple sequence alignment program for unix-like operating systems.
 
+`mafft in > out`
+
 5. [fasttreeMP](http://www.microbesonline.org/fasttree/)
 
 version version 2.1.8
@@ -54,6 +56,8 @@ version 2.2.31+
 
 Basic Local Alignment Search Tool (BLAST) is probably the most popular similarity search tool. Sequence similarity searching is one of the more important bioinformatics activities and often provides the first evidence for the function of a newly sequenced gene or piece of sequence. 
 
+`blastn` `blastp` `blastx` `tblastn` `makeblastdb` `blastdbcmd`
+
 10. [bamtools](https://github.com/pezmaster31/bamtools/wiki)
 
 version 2.4.0
@@ -78,6 +82,8 @@ version 4.6
 
 CD-HIT is a very widely used program for clustering and comparing protein or nucleotide sequences.
 
+`cdhit` `cdhit-2d` `cdhit-454` `cdhit-est` `cdhit-est-2d` `cd-hit-2d-para` `cd-hit-div` `cd-hit-para`
+
 14. [bwa](http://bio-bwa.sourceforge.net)
 
 version 0.7.12-r1039
@@ -97,6 +103,44 @@ version 2015-12-31
 GMAP: a genomic mapping and alignment program for mRNA and EST sequences
 
 [aligner tutorial](https://github.com/PacificBiosciences/cDNA_primer/wiki/Aligner-tutorial:-GMAP,-STAR,-BLAT,-and-BLASR#refgmap)
+
+17. [EMBOSS](http://emboss.sourceforge.net/what/)
+
+version 6.6.0.0
+
+EMBOSS is "The European Molecular Biology Open Software Suite". EMBOSS is a free Open Source software analysis package specially developed for the needs of the molecular biology (e.g. EMBnet) user community. 
+
+18. [prottest](https://github.com/ddarriba/prottest3)
+
+version 2.1
+
+ProtTest is a bioinformatic tool for the selection of best-fit models of aminoacid replacement for the data at hand.
+
+19. [readal](http://trimal.cgenomics.org/use_of_the_readal_v1.2)
+
+version 1.2rev59
+
+readAl reads protein or nucleotide alignments in several Multiple Sequence Alignment formats, including Phylip, Fasta, Clustal, NBRF/Pir, Mega and Nexus. The program detects automatically the input format and converts the alignment to other available formats.
+
+20. [trimal](http://trimal.cgenomics.org)
+
+version 1.2rev59
+
+trimAl is a tool for the automated removal of spurious sequences or poorly aligned regions from a multiple sequence alignment
+
+`trimal`
+
+21. [PartitionFinder](http://www.robertlanfear.com/partitionfinder/tutorial/)
+
+PartitionFinder is software to select best-fit partitioning schemes and models of molecular evolution for phylogenetic analyses.
+
+22. [MrBayes](http://mrbayes.sourceforge.net)
+
+version 3.2.6
+
+MrBayes is a program for Bayesian inference and model choice across a wide range of phylogenetic and evolutionary models. MrBayes uses Markov chain Monte Carlo (MCMC) methods to estimate the posterior distribution of model parameters.
+
+`mb` `mb-mpi`
 
 
 
