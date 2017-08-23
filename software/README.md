@@ -195,5 +195,13 @@ Trimmomatic: A flexible read trimming tool for Illumina NGS
 
 `trimmomatic`
 
+30. [fastqc](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
+
+version 0.11.4
+
+A quality control tool for high throughput sequence data.
+
+`fastqc -h`
+
 
 
