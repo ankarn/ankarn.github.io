@@ -209,5 +209,5 @@ version 1.12
 
 Selects regions in a multiple sequence alignment that are suited for phylogenetic inference. BMGE is able to perform biologically relevant trimming on a multiple alignment of DNA, codon or amino acid sequences.
 
-
+`bmge -?`
 
