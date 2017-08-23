@@ -203,5 +203,11 @@ A quality control tool for high throughput sequence data.
 
 `fastqc -h`
 
+31. [bmge](http://gensoft.pasteur.fr/docs/BMGE/1.0/BMGE_doc.pdf)
+
+version 1.12
+
+Selects regions in a multiple sequence alignment that are suited for phylogenetic inference. BMGE is able to perform biologically relevant trimming on a multiple alignment of DNA, codon or amino acid sequences.
+
 
 
