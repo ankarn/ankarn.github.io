@@ -1,7 +1,7 @@
 
 # ZFME repository
 
-If you would like to check the list of the software installed currently at the server read [here](software/)
+List of the software currently installed at the server is [here](software/)
 
 If you are trying to perform genome assembly read [here](genome_assembly/)
 
