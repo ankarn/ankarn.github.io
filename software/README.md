@@ -180,9 +180,9 @@ NOVOPlasty is a de novo assembler for short circular genomes.
 
 `novoplasty`
 
-28.[hmmer](http://hmmer.org)
+28. [hmmer](http://hmmer.org)
 
-version 2.3.2 (hmm2)
+version 2.3.2 (hmm2) 
 version 3.1b2 (hmm)
 
 HMMER is used for searching sequence databases for sequence homologs, and for making sequence alignments. It implements methods using probabilistic models called profile hidden Markov models (profile HMMs).
