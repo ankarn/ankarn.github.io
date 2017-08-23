@@ -189,3 +189,11 @@ HMMER is used for searching sequence databases for sequence homologs, and for ma
 
 `hmmalign` ` hmmbuild ` `hmmcalibrate` `hmmconvert` `hmmemit` `hmmfetch` `hmmindex`  `hmmpfam`   `hmmsearch`
 
+29. [trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic)
+
+Trimmomatic: A flexible read trimming tool for Illumina NGS 
+
+`trimmomatic`
+
+
+
