@@ -142,6 +142,20 @@ MrBayes is a program for Bayesian inference and model choice across a wide range
 
 `mb` `mb-mpi`
 
+23. [trinity](https://github.com/trinityrnaseq/trinityrnaseq/wiki)
+
+version 2.4.0
+
+Trinity assembles transcript sequences from Illumina RNA-Seq data.
+
+`trinity`
+
+24. [SPAdes](http://spades.bioinf.spbau.ru/release3.10.1/manual.html#sec2.1)
+
+version 3.10.1
+
+SPAdes – St. Petersburg genome assembler – is an assembly toolkit containing various assembly pipelines. 
+
 
 
 
