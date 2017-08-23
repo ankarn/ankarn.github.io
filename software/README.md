@@ -171,3 +171,12 @@ version 2.5.0a
 STAR: ultrafast universal RNA-seq aligner
 
 `STAR`
+
+27. [NOVOPlasty](https://github.com/ndierckx/NOVOPlasty)
+
+version 2.6.2
+
+NOVOPlasty is a de novo assembler for short circular genomes.
+
+`novoplasty`
+
