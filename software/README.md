@@ -42,7 +42,7 @@ Bowtie 2 is an ultrafast and memory-efficient tool for aligning sequencing reads
 
 version 2.1.0
 
-TopHat is a fast splice junction mapper for RNA-Seq reads.
+TopHat is a fast splice junction mapper for RNA-Seq reads. Please note that TopHat has entered a low maintenance, low support stage as it is now largely superseded by HISAT2 (32).
 
 8. [sra-toolkit](https://www.ncbi.nlm.nih.gov/books/NBK158900/)
 
@@ -209,5 +209,8 @@ version 1.12
 
 Selects regions in a multiple sequence alignment that are suited for phylogenetic inference. BMGE is able to perform biologically relevant trimming on a multiple alignment of DNA, codon or amino acid sequences.
 
+32. [hisat2](https://ccb.jhu.edu/software/hisat2/index.shtml)  
+
+HISAT2 is a fast and sensitive alignment program for mapping next-generation sequencing reads (both DNA and RNA) to a population of genomes (as well as to a single reference genome). 
 
 
