@@ -211,6 +211,8 @@ Selects regions in a multiple sequence alignment that are suited for phylogeneti
 
 32. [hisat2](https://ccb.jhu.edu/software/hisat2/index.shtml)  
 
+version 2.1.0
+
 HISAT2 is a fast and sensitive alignment program for mapping next-generation sequencing reads (both DNA and RNA) to a population of genomes (as well as to a single reference genome). 
 
 `hisat2` `hisat2-align-s` `hisat2-align-l` `hisat2-build` `hisat2-build-s` `hisat2-build-l` `hisat2-inspect` `hisat2-inspect-s` `hisat2-inspect-l`
