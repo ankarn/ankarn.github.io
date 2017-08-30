@@ -156,7 +156,7 @@ version 3.10.1
 
 SPAdes – St. Petersburg genome assembler – is an assembly toolkit containing various assembly pipelines. 
 
-25. QUAST[http://quast.sourceforge.net/quast.html]
+25. [QUAST](http://quast.sourceforge.net/quast.html)
 
 version 4.5
 
