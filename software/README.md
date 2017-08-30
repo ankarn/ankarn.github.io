@@ -180,9 +180,9 @@ NOVOPlasty is a de novo assembler for short circular genomes.
 
 `novoplasty`
 
-28.[hmmer](http://hmmer.org)
+28. [hmmer](http://hmmer.org)
 
-version 2.3.2 (hmm2)
+version 2.3.2 (hmm2)  
 version 3.1b2 (hmm)
 
 HMMER is used for searching sequence databases for sequence homologs, and for making sequence alignments. It implements methods using probabilistic models called profile hidden Markov models (profile HMMs).
@@ -209,6 +209,8 @@ version 1.12
 
 Selects regions in a multiple sequence alignment that are suited for phylogenetic inference. BMGE is able to perform biologically relevant trimming on a multiple alignment of DNA, codon or amino acid sequences.
 
+`bmge -?`
+
 32. [hisat2](https://ccb.jhu.edu/software/hisat2/index.shtml)  
 
 version 2.1.0
@@ -216,5 +218,3 @@ version 2.1.0
 HISAT2 is a fast and sensitive alignment program for mapping next-generation sequencing reads (both DNA and RNA) to a population of genomes (as well as to a single reference genome). 
 
 `hisat2` `hisat2-align-s` `hisat2-align-l` `hisat2-build` `hisat2-build-s` `hisat2-build-l` `hisat2-inspect` `hisat2-inspect-s` `hisat2-inspect-l`
-
-
