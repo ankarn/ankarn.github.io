@@ -140,7 +140,7 @@ version 3.2.6
 
 MrBayes is a program for Bayesian inference and model choice across a wide range of phylogenetic and evolutionary models. MrBayes uses Markov chain Monte Carlo (MCMC) methods to estimate the posterior distribution of model parameters.
 
-`mb` `mb-mpi`
+`please contact Łukasz B. before you will start using MrBayes`
 
 23. [trinity](https://github.com/trinityrnaseq/trinityrnaseq/wiki)
 
@@ -218,3 +218,15 @@ version 2.1.0
 HISAT2 is a fast and sensitive alignment program for mapping next-generation sequencing reads (both DNA and RNA) to a population of genomes (as well as to a single reference genome). 
 
 `hisat2` `hisat2-align-s` `hisat2-align-l` `hisat2-build` `hisat2-build-s` `hisat2-build-l` `hisat2-inspect` `hisat2-inspect-s` `hisat2-inspect-l`
+
+33. [biopython](http://biopython.org)
+ 
+ Biopython is a set of freely available tools for biological computation written in Python.
+ 
+ 34. [seqtk](https://github.com/lh3/seqtk)
+ 
+ version 1.0-r31
+ 
+ Seqtk is a fast and lightweight tool for processing sequences in the FASTA or FASTQ format.
+ 
+ `seqtk`
