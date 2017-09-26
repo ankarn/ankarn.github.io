@@ -230,3 +230,15 @@ HISAT2 is a fast and sensitive alignment program for mapping next-generation seq
  Seqtk is a fast and lightweight tool for processing sequences in the FASTA or FASTQ format.
  
  `seqtk`
+ 
+ 35. [blobtools](https://blobtools.readme.io/docs/what-is-blobtools)
+ 
+ blobtools v1.0
+ 
+ A modular command-line solution for visualisation, quality control and taxonomic partitioning of genome datasets
+ 
+ `cd /opt/blobtools ./blobtools`
+ 
+ *** Under construction***
+ 
+ 
