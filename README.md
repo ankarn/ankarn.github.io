@@ -3,7 +3,7 @@
 
 software installed on [anthriscus server](software/) 
 
-Some tips on how to:
+Some tips on how to:  
 perform a [genome assembly](genome_assembly/)  
 perform a [transcriptome assembly](transcriptome_assembly/)  
 [annotate genome](annotation)  
