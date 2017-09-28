@@ -5,8 +5,8 @@ software installed on [anthriscus server](software/)
 
 Some tips on how to:
 perform a [genome assembly](genome_assembly/)  
-perform a [transcriptome assembly](transcriptome/)  
-[annotate genome]()  
+perform a [transcriptome assembly](transcriptome_assembly/)  
+[annotate genome](annotation)  
 build a [phylogenetic tree](tree/)  
 
 
