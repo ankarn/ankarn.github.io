@@ -38,7 +38,12 @@ Canu is a fork of the Celera Assembler designed for high-noise single-molecule s
  
 DBG2OLC:Efficient Assembly of Large Genomes Using Long Erroneous Reads of the Third Generation Sequencing Technologies  
 
-`DBG2OLC` `AssemblyStatistics` `SelectLongestReads` `Sparc` `SparseAssembler`
+`DBG2OLC` `AssemblyStatistics` `SelectLongestReads` `Sparc` `SparseAssembler`  
+
+[Pilon](https://github.com/broadinstitute/pilon/wiki)  
+Pilon is a software tool which can be used to:
+
+Automatically improve draft assemblies
 
 ### organellar assemblers
 
