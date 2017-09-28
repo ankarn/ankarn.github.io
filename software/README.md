@@ -166,7 +166,25 @@ HISAT2 is a fast and sensitive alignment program for mapping next-generation seq
  
 DBG2OLC:Efficient Assembly of Large Genomes Using Long Erroneous Reads of the Third Generation Sequencing Technologies  
 
-`DBG2OLC` `AssemblyStatistics` `SelectLongestReads` `Sparc` `SparseAssembler`
+`DBG2OLC` `AssemblyStatistics` `SelectLongestReads` `Sparc` `SparseAssembler`  
+
+19. [CANU](http://canu.readthedocs.io/en/stable/)  
+
+Canu 1.6
+
+Canu is a fork of the Celera Assembler designed for high-noise single-molecule sequencing (such as the PacBio RSII or Oxford Nanopore MinION).
+
+`canu`
+
+20. [minimap/miniasm](https://github.com/lh3/miniasm)  
+
+minimap version 0.2-r124-dirty
+
+miniasm version 0.2-r168-dirty
+
+Miniasm is a very fast OLC-based de novo assembler for noisy long reads.  
+
+`minimap` `miniasm`
 
 ### phylogenetics
 
@@ -233,7 +251,12 @@ version 1.12
 
 Selects regions in a multiple sequence alignment that are suited for phylogenetic inference. BMGE is able to perform biologically relevant trimming on a multiple alignment of DNA, codon or amino acid sequences.
 
-`bmge -?`
+`bmge -?`  
+
+11. 7. [concaterpillar.py](http://rogerlab.biochemistryandmolecularbiology.dal.ca/Software/Software.htm#Concaterpillar)  
+
+
+Assessment of congruence for protein alignment concatenation.
 
 ### other
 
