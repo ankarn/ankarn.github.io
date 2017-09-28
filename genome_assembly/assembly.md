@@ -4,9 +4,14 @@
 1. SOAPdenovo  
 [SOAPdenovo](https://github.com/aquaskyline/SOAPdenovo2)
 
-2. SPADes
+2. [SPAdes](http://spades.bioinf.spbau.ru/release3.10.1/manual.html#sec2.1)
 
-You can start with that command line, -o output, -t numer of threads  
+version 3.10.1
+
+SPAdes – St. Petersburg genome assembler – is an assembly toolkit containing various assembly pipelines. 
+
+You can start with that command line, -o output, -t numer of threads 
+
 `spades -k 21,33,55,77,99,127 --only-assembler -o -1 -2 -t 4 `  
 
 3. Ray  
@@ -23,7 +28,11 @@ Minimap/Miniasm
 
 1. SPAdes
 2. MaSuRCA
-3. DBG2OLC 
+3. [DBG2OLC](https://github.com/yechengxi/DBG2OLC)  
+ 
+DBG2OLC:Efficient Assembly of Large Genomes Using Long Erroneous Reads of the Third Generation Sequencing Technologies  
+
+`DBG2OLC` `AssemblyStatistics` `SelectLongestReads` `Sparc` `SparseAssembler`
 
 ### organellar assemblers
 
