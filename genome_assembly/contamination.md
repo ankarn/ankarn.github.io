@@ -1,8 +1,6 @@
-# Blobology
+# [Blobtools](https://blobtools.readme.io/docs)
 
 Tools for making blobplots or Taxon-Annotated-GC-Coverage plots (TAGC plots) to visualise the contents of genome assembly data sets as a QC step  
-[blobology](https://github.com/blaxterlab/blobology)
-
 
 # KAT
 

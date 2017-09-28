@@ -1,22 +1,48 @@
-### Genome assembly
+## Genome assembly ##
 
-
+### *de novo* assembly - Illumina reads
 1. SOAPdenovo  
 [SOAPdenovo](https://github.com/aquaskyline/SOAPdenovo2)
 
-2. SPADes
+2. [SPAdes](http://spades.bioinf.spbau.ru/release3.10.1/manual.html#sec2.1)
 
-You can start with that command line, -o output, -t numer of threads  
+version 3.10.1
+
+SPAdes – St. Petersburg genome assembler – is an assembly toolkit containing various assembly pipelines. 
+
+You can start with that command line, -o output, -t numer of threads 
+
 `spades -k 21,33,55,77,99,127 --only-assembler -o -1 -2 -t 4 `  
 
 3. Ray  
 [Ray](http://denovoassembler.sourceforge.net/manual.html)
 
-4. MIRA  
+### *de novo* assembly - PacBio reads
 
-5. The organelle assembler NOVOPlasty v.2.5.9
+1. [minimap/miniasm](https://github.com/lh3/miniasm) 
 
-[NOVOPlasty](https://github.com/ndierckx/NOVOPlasty)
+Dirty and fast preliminary assembly.  
+Miniasm is a very fast OLC-based de novo assembler for noisy long reads.
+
+2. [CANU](http://canu.readthedocs.io/en/stable/)  
+
+Canu 1.6
+
+Canu is a fork of the Celera Assembler designed for high-noise single-molecule sequencing (such as the PacBio RSII or Oxford Nanopore MinION).
+
+### *de novo* hybrid assembly - Illumina + PacBio reads
+
+1. SPAdes
+2. MaSuRCA
+3. [DBG2OLC](https://github.com/yechengxi/DBG2OLC)  
+ 
+DBG2OLC:Efficient Assembly of Large Genomes Using Long Erroneous Reads of the Third Generation Sequencing Technologies  
+
+`DBG2OLC` `AssemblyStatistics` `SelectLongestReads` `Sparc` `SparseAssembler`
+
+### organellar assemblers
+
+1. [NOVOPlasty](https://github.com/ndierckx/NOVOPlasty)
 
 `perl /opt/NOVOPlasty/NOVOPlasty2.5.9.pl -c config.txt`
 
@@ -46,5 +72,3 @@ You can start with that command line, -o output, -t numer of threads
 **Chloroplast sequence** = The path to the file that contains the chloroplast sequence (Only for mito_plant mode).  
 
 
-6. Plastid assembler (not tested by Ania)   
-[Fast-Plast](https://github.com/mrmckain/Fast-Plast)

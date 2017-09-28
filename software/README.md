@@ -32,7 +32,6 @@ version 6.6.0.0
 
 EMBOSS is "The European Molecular Biology Open Software Suite". EMBOSS is a free Open Source software analysis package specially developed for the needs of the molecular biology (e.g. EMBnet) user community. 
 
-
 5. [hmmer](http://hmmer.org)
 
 version 2.3.2 (hmm2)  
