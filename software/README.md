@@ -184,7 +184,13 @@ miniasm version 0.2-r168-dirty
 
 Miniasm is a very fast OLC-based de novo assembler for noisy long reads.  
 
-`minimap` `miniasm`
+`minimap` `miniasm`  
+
+21. [Pilon](https://github.com/broadinstitute/pilon/wiki)
+
+Pilon is a software tool which can be used to (1) automatically improve draft assemblies and (2) find variation among strains, including large event detection.  
+
+* under construction *
 
 ### phylogenetics
 
