@@ -1,6 +1,6 @@
 ### Genome assembly
 
-
+# *de novo* assembly - Illumina reads #
 1. SOAPdenovo  
 [SOAPdenovo](https://github.com/aquaskyline/SOAPdenovo2)
 
@@ -12,11 +12,22 @@ You can start with that command line, -o output, -t numer of threads
 3. Ray  
 [Ray](http://denovoassembler.sourceforge.net/manual.html)
 
-4. MIRA  
+# *de novo* assembly - PacBio reads #
 
-5. The organelle assembler NOVOPlasty v.2.5.9
+1. preliminary assembly 
+Minimap/Miniasm
 
-[NOVOPlasty](https://github.com/ndierckx/NOVOPlasty)
+2. CANU
+
+# *de novo* hybrid assembly - Illumina + PacBio reads #
+
+1. SPAdes
+2. MaSuRCA
+3. DBG2OLC 
+
+# organellar assemblers#
+
+1. [NOVOPlasty](https://github.com/ndierckx/NOVOPlasty)
 
 `perl /opt/NOVOPlasty/NOVOPlasty2.5.9.pl -c config.txt`
 
@@ -46,5 +57,3 @@ You can start with that command line, -o output, -t numer of threads
 **Chloroplast sequence** = The path to the file that contains the chloroplast sequence (Only for mito_plant mode).  
 
 
-6. Plastid assembler (not tested by Ania)   
-[Fast-Plast](https://github.com/mrmckain/Fast-Plast)
