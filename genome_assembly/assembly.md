@@ -40,7 +40,7 @@ DBG2OLC:Efficient Assembly of Large Genomes Using Long Erroneous Reads of the Th
 
 `DBG2OLC` `AssemblyStatistics` `SelectLongestReads` `Sparc` `SparseAssembler`  
 
-[Pilon](https://github.com/broadinstitute/pilon/wiki)  
+4. [Pilon](https://github.com/broadinstitute/pilon/wiki)  
 Pilon is a software tool which can be used to:
 
 Automatically improve draft assemblies
