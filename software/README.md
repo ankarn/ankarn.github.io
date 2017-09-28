@@ -108,7 +108,7 @@ version 3.10.1
 
 SPAdes – St. Petersburg genome assembler – is an assembly toolkit containing various assembly pipelines. 
 
-11. QUAST[http://quast.sourceforge.net/quast.html]
+11. [QUAST](http://quast.sourceforge.net/quast.html)
 
 version 4.5
 
@@ -231,12 +231,12 @@ Selects regions in a multiple sequence alignment that are suited for phylogeneti
 
 ### other
 
-[tmux](https://github.com/tmux/tmux/wiki) 
+1. [tmux](https://github.com/tmux/tmux/wiki) 
 
 tmux is a terminal multiplexer. It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. 
 
 [tmux cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
 
-[biopython](http://biopython.org)
+2. [biopython](http://biopython.org)
  
  Biopython is a set of freely available tools for biological computation written in Python.
