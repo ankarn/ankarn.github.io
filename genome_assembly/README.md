@@ -5,11 +5,10 @@
 1. [Quality control](qc.md)  
 2. [Trimming](trimming.md)
 3. [Merging reads](merging.md)
-4. [Initial genome assembly](assembly.md)
-5. [Organellar genome assembly](organelle_assembly.md)
-6. [Evaluating genome assembly quality](quality.md)
-7. [Contamination estimation](contamination.md)
-8. Completeness estimation
-9. Visualization
-10. Gene prediction
-11. Functional annotation
+4. [Genome assembly](assembly.md)
+5. [Evaluating genome assembly quality](quality.md)
+6. [Contamination estimation](contamination.md)
+7. Completeness estimation
+8. Visualization
+9. Gene prediction
+10. Functional annotation
