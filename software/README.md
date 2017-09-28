@@ -32,6 +32,8 @@ version version 2.1.8
 
 FastTree infers approximately-maximum-likelihood phylogenetic trees from alignments of nucleotide or protein sequences
 
+`fasttree`
+
 6. [bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml)
 
 version 2.2.6
