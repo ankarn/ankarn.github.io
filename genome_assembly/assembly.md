@@ -19,10 +19,16 @@ You can start with that command line, -o output, -t numer of threads
 
 ### *de novo* assembly - PacBio reads
 
-1. preliminary assembly 
-Minimap/Miniasm
+1. [minimap/miniasm](https://github.com/lh3/miniasm) 
 
-2. CANU
+Dirty and fast preliminary assembly.  
+Miniasm is a very fast OLC-based de novo assembler for noisy long reads.
+
+2. [CANU](http://canu.readthedocs.io/en/stable/)  
+
+Canu 1.6
+
+Canu is a fork of the Celera Assembler designed for high-noise single-molecule sequencing (such as the PacBio RSII or Oxford Nanopore MinION).
 
 ### *de novo* hybrid assembly - Illumina + PacBio reads
 
