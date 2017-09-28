@@ -25,7 +25,7 @@ Minimap/Miniasm
 2. MaSuRCA
 3. DBG2OLC 
 
-### organellar assemblers#
+### organellar assemblers
 
 1. [NOVOPlasty](https://github.com/ndierckx/NOVOPlasty)
 
