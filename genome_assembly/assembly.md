@@ -1,6 +1,6 @@
-### Genome assembly
+## Genome assembly ##
 
-# *de novo* assembly - Illumina reads #
+### *de novo* assembly - Illumina reads
 1. SOAPdenovo  
 [SOAPdenovo](https://github.com/aquaskyline/SOAPdenovo2)
 
@@ -12,20 +12,20 @@ You can start with that command line, -o output, -t numer of threads
 3. Ray  
 [Ray](http://denovoassembler.sourceforge.net/manual.html)
 
-# *de novo* assembly - PacBio reads #
+### *de novo* assembly - PacBio reads
 
 1. preliminary assembly 
 Minimap/Miniasm
 
 2. CANU
 
-# *de novo* hybrid assembly - Illumina + PacBio reads #
+### *de novo* hybrid assembly - Illumina + PacBio reads
 
 1. SPAdes
 2. MaSuRCA
 3. DBG2OLC 
 
-# organellar assemblers#
+### organellar assemblers#
 
 1. [NOVOPlasty](https://github.com/ndierckx/NOVOPlasty)
 
