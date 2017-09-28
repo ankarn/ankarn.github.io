@@ -190,7 +190,7 @@ Miniasm is a very fast OLC-based de novo assembler for noisy long reads.
 
 Pilon is a software tool which can be used to (1) automatically improve draft assemblies and (2) find variation among strains, including large event detection.  
 
-* under construction *
+*under construction*
 
 ### phylogenetics
 
