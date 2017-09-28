@@ -160,7 +160,13 @@ HISAT2 is a fast and sensitive alignment program for mapping next-generation seq
  
  Seqtk is a fast and lightweight tool for processing sequences in the FASTA or FASTQ format.
  
- `seqtk`
+ `seqtk`  
+ 
+ 18. [DBG2OLC](https://github.com/yechengxi/DBG2OLC)  
+ 
+DBG2OLC:Efficient Assembly of Large Genomes Using Long Erroneous Reads of the Third Generation Sequencing Technologies  
+
+`DBG2OLC` `AssemblyStatistics` `SelectLongestReads` `Sparc` `SparseAssembler`
 
 ### phylogenetics
 
