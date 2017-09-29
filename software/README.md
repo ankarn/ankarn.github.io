@@ -191,7 +191,19 @@ version 1.22
 
 Pilon is a software tool which can be used to (1) automatically improve draft assemblies and (2) find variation among strains, including large event detection.  
 
-`pilon`
+`pilon`  
+
+22. [BUSCO](https://gitlab.com/ezlab/busco)  
+
+Assessing genome assembly and annotation completeness with Benchmarking Universal Single-Copy Orthologs (BUSCO)
+
+*under construction*  
+
+23. [blobtools](https://blobtools.readme.io/docs)  
+
+A modular command-line solution for visualisation, quality control and taxonomic partitioning of genome datasets  
+
+*under construcion*
 
 ### phylogenetics
 
