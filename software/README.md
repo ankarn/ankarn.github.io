@@ -209,7 +209,13 @@ A modular command-line solution for visualisation, quality control and taxonomic
 
 SSPACE is a script able to extend and scaffold pre-assembled contigs using one or more mate pairs or paired-end libraries, or even a combination.  
 
-`perl /opt/sspace_basic/SSPACE_Basic.pl`
+`perl /opt/sspace_basic/SSPACE_Basic.pl`  
+
+25. [PLATANUS](http://platanus.bio.titech.ac.jp/)  
+
+PLATform for Assembling NUcleotide Sequences
+
+Read more: Kajitani R, Toshimoto K, Noguchi H, Toyoda A, Ogura Y, Okuno M, Yabana M, Harada M, Nagayasu E, Maruyama H, Kohara Y, Fujiyama A, Hayashi T, Itoh T, “Efficient de novo assembly of highly heterozygous genomes from whole-genome shotgun short reads”. Genome Res. 2014 Aug;24(8):1384-95. doi: 10.1101/gr.170720.113.  
 
 ### phylogenetics
 
