@@ -215,7 +215,15 @@ SSPACE is a script able to extend and scaffold pre-assembled contigs using one o
 
 PLATform for Assembling NUcleotide Sequences
 
-Read more: Kajitani R, Toshimoto K, Noguchi H, Toyoda A, Ogura Y, Okuno M, Yabana M, Harada M, Nagayasu E, Maruyama H, Kohara Y, Fujiyama A, Hayashi T, Itoh T, “Efficient de novo assembly of highly heterozygous genomes from whole-genome shotgun short reads”. Genome Res. 2014 Aug;24(8):1384-95. doi: 10.1101/gr.170720.113.  
+Read more: Kajitani R, Toshimoto K, Noguchi H, Toyoda A, Ogura Y, Okuno M, Yabana M, Harada M, Nagayasu E, Maruyama H, Kohara Y, Fujiyama A, Hayashi T, Itoh T, “Efficient de novo assembly of highly heterozygous genomes from whole-genome shotgun short reads”. Genome Res. 2014 Aug;24(8):1384-95. doi: 10.1101/gr.170720.113. 
+
+*under construction*
+
+26. [CGAL](https://pachterlab.github.io/cgal/)   
+
+CGAL is a tool for computing genome assembly likelihoods. It computes the likelihood of reads with respect to the assembly and a statistical model which can be used as a metric for evaluating assemblies.  
+
+*unser construction*
 
 ### phylogenetics
 
