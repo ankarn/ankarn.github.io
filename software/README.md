@@ -205,6 +205,12 @@ A modular command-line solution for visualisation, quality control and taxonomic
 
 *under construcion*
 
+24. [sspace](https://github.com/nsoranzo/sspace_basic)  
+
+SSPACE is a script able to extend and scaffold pre-assembled contigs using one or more mate pairs or paired-end libraries, or even a combination.  
+
+`perl /opt/sspace_basic/SSPACE_Basic.pl`
+
 ### phylogenetics
 
 1. [mafft](http://mafft.cbrc.jp/alignment/software/)
