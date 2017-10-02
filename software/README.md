@@ -307,4 +307,12 @@ tmux is a terminal multiplexer. It lets you switch easily between several progra
 
 2. [biopython](http://biopython.org)
  
- Biopython is a set of freely available tools for biological computation written in Python.
+ Biopython is a set of freely available tools for biological computation written in Python.  
+ 
+ # Databases #  
+ 
+ 1. NCBI nt  
+ 
+ `/mnt/databases/`
+
+*under construction*
