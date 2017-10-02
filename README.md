@@ -1,7 +1,7 @@
 
 # ZFME repository
 
-software installed on [anthriscus server](software/) 
+software & databases installed on [anthriscus server](software/) 
 
 Some tips on how to:  
 perform a [genome assembly](genome_assembly/)  
