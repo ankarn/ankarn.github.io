@@ -311,8 +311,8 @@ tmux is a terminal multiplexer. It lets you switch easily between several progra
  
  # Databases #  
  
- 1. NCBI nt  
+ 1. NCBI nucleotide database (nt)
  
- `/mnt/databases/`
-
-*under construction*
+ October 2017  
+ 
+ `/mnt/databases/NCBI/nt`
