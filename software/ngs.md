@@ -1,5 +1,32 @@
 # Genomics #
 
+## quality control ##  
+
+1. [fastqc](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
+
+version 0.11.4
+
+A quality control tool for high throughput sequence data.
+
+`fastqc -h`
+
+12. [trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic)
+
+Trimmomatic: A flexible read trimming tool for Illumina NGS 
+
+`trimmomatic`
+
+3. [blobtools](https://blobtools.readme.io/docs)  
+
+A modular command-line solution for visualisation, quality control and taxonomic partitioning of genome datasets  
+
+*under construcion*  
+
+4. [BUSCO](https://gitlab.com/ezlab/busco)  
+
+Assessing genome assembly and annotation completeness with Benchmarking Universal Single-Copy Orthologs (BUSCO)
+
+*under construction*  
 
 ## genome and transcriptome assembly ##
 
@@ -49,7 +76,21 @@ Miniasm is a very fast OLC-based de novo assembler for noisy long reads.
 
 `minimap` `miniasm`  
 
-7. [Pilon](https://github.com/broadinstitute/pilon/wiki)  
+7. [PLATANUS](http://platanus.bio.titech.ac.jp/)  
+
+PLATform for Assembling NUcleotide Sequences
+
+Read more: Kajitani R, Toshimoto K, Noguchi H, Toyoda A, Ogura Y, Okuno M, Yabana M, Harada M, Nagayasu E, Maruyama H, Kohara Y, Fujiyama A, Hayashi T, Itoh T, “Efficient de novo assembly of highly heterozygous genomes from whole-genome shotgun short reads”. Genome Res. 2014 Aug;24(8):1384-95. doi: 10.1101/gr.170720.113. 
+
+*under construction*  
+
+8. [sspace](https://github.com/nsoranzo/sspace_basic)  
+
+SSPACE is a script able to extend and scaffold pre-assembled contigs using one or more mate pairs or paired-end libraries, or even a combination.  
+
+`perl /opt/sspace_basic/SSPACE_Basic.pl`  
+
+9. [Pilon](https://github.com/broadinstitute/pilon/wiki)  
 
 version 1.22
 
@@ -57,7 +98,7 @@ Pilon is a software tool which can be used to (1) automatically improve draft as
 
 `pilon`  
 
-8. [QUAST](http://quast.sourceforge.net/quast.html)
+10. [QUAST](http://quast.sourceforge.net/quast.html)
 
 version 4.5
 
@@ -65,7 +106,7 @@ QUAST evaluates genome assemblies
 
 `quast`  
 
-9. [CGAL](https://pachterlab.github.io/cgal/)   
+11. [CGAL](https://pachterlab.github.io/cgal/)   
 
 CGAL is a tool for computing genome assembly likelihoods. It computes the likelihood of reads with respect to the assembly and a statistical model which can be used as a metric for evaluating assemblies.  
 
@@ -118,13 +159,27 @@ HISAT2 is a fast and sensitive alignment program for mapping next-generation seq
 
 ## File processing ##
 
-1. [bamtools](https://github.com/pezmaster31/bamtools/wiki)
+1. [fastx-toolkit](http://hannonlab.cshl.edu/fastx_toolkit/)
+
+version 0.0.14
+
+The FASTX-Toolkit is a collection of command line tools for Short-Reads FASTA/FASTQ files preprocessing.
+
+2. [seqtk](https://github.com/lh3/seqtk)
+ 
+ version 1.0-r31
+ 
+ Seqtk is a fast and lightweight tool for processing sequences in the FASTA or FASTQ format.
+ 
+ `seqtk`  
+
+3. [bamtools](https://github.com/pezmaster31/bamtools/wiki)
 
 version 2.4.0
 
 Bamtools is a command-line toolkit for reading, writing, and manipulating BAM (genome alignment) files. 
 
-2. [samtools](http://samtools.sourceforge.net)
+4. [samtools](http://samtools.sourceforge.net)
 
 Version: 0.1.19-96b5f2294a
 
@@ -132,71 +187,11 @@ SAM Tools provide various utilities for manipulating alignments in the SAM forma
 
 [samtools cheatsheet](https://davetang.org/wiki/tiki-index.php?page=SAMTools)
 
-3. [bedtools](http://bedtools.readthedocs.io/en/latest/)
+5. [bedtools](http://bedtools.readthedocs.io/en/latest/)
 
 version 2.25.0
 
-4. [fastx-toolkit](http://hannonlab.cshl.edu/fastx_toolkit/)
-
-version 0.0.14
-
-The FASTX-Toolkit is a collection of command line tools for Short-Reads FASTA/FASTQ files preprocessing.
-
-5. [seqtk](https://github.com/lh3/seqtk)
- 
- version 1.0-r31
- 
- Seqtk is a fast and lightweight tool for processing sequences in the FASTA or FASTQ format.
- 
- `seqtk`  
 
 
-14. [trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic)
 
-Trimmomatic: A flexible read trimming tool for Illumina NGS 
-
-`trimmomatic`
-
-15. [fastqc](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
-
-version 0.11.4
-
-A quality control tool for high throughput sequence data.
-
-`fastqc -h`
-
- 17. [seqtk](https://github.com/lh3/seqtk)
- 
- version 1.0-r31
- 
- Seqtk is a fast and lightweight tool for processing sequences in the FASTA or FASTQ format.
- 
- `seqtk`  
- 
-
-22. [BUSCO](https://gitlab.com/ezlab/busco)  
-
-Assessing genome assembly and annotation completeness with Benchmarking Universal Single-Copy Orthologs (BUSCO)
-
-*under construction*  
-
-23. [blobtools](https://blobtools.readme.io/docs)  
-
-A modular command-line solution for visualisation, quality control and taxonomic partitioning of genome datasets  
-
-*under construcion*
-
-24. [sspace](https://github.com/nsoranzo/sspace_basic)  
-
-SSPACE is a script able to extend and scaffold pre-assembled contigs using one or more mate pairs or paired-end libraries, or even a combination.  
-
-`perl /opt/sspace_basic/SSPACE_Basic.pl`  
-
-25. [PLATANUS](http://platanus.bio.titech.ac.jp/)  
-
-PLATform for Assembling NUcleotide Sequences
-
-Read more: Kajitani R, Toshimoto K, Noguchi H, Toyoda A, Ogura Y, Okuno M, Yabana M, Harada M, Nagayasu E, Maruyama H, Kohara Y, Fujiyama A, Hayashi T, Itoh T, “Efficient de novo assembly of highly heterozygous genomes from whole-genome shotgun short reads”. Genome Res. 2014 Aug;24(8):1384-95. doi: 10.1101/gr.170720.113. 
-
-*under construction*
 
