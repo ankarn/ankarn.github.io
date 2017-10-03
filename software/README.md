@@ -4,7 +4,7 @@
 
 [Phylogenetics](phylogeny.md)
 
-[genomics](ngs.md)
+[Genomics](ngs.md)
 
 1. [blast](https://www.ncbi.nlm.nih.gov/books/NBK279690/)
 
