@@ -317,7 +317,7 @@ tmux is a terminal multiplexer. It lets you switch easily between several progra
  
  Biopython is a set of freely available tools for biological computation written in Python.  
  
-[Databases](/databases.md)  
+[Databases](../databases.md)  
  
  1. NCBI nucleotide database (nt)
  
