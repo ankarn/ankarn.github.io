@@ -223,7 +223,15 @@ Read more: Kajitani R, Toshimoto K, Noguchi H, Toyoda A, Ogura Y, Okuno M, Yaban
 
 CGAL is a tool for computing genome assembly likelihoods. It computes the likelihood of reads with respect to the assembly and a statistical model which can be used as a metric for evaluating assemblies.  
 
-*unser construction*
+*unser construction*  
+
+27. [Orthofinder](https://github.com/davidemms/OrthoFinder)  
+
+version 2.0.0  
+
+Accurate inference of orthologous gene groups made easy. "OrthoFinder: solving fundamental biases in whole genome comparisons dramatically improves orthologous gene group inference accuracy"
+
+`orthofinder`
 
 ### phylogenetics
 
