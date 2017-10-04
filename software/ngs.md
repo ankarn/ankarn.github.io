@@ -30,13 +30,19 @@ Assessing genome assembly and annotation completeness with Benchmarking Universa
 
 ## genome and transcriptome assembly ##
 
-1. [SPAdes](http://spades.bioinf.spbau.ru/release3.10.1/manual.html#sec2.1)
+1. [kmergenie](http://kmergenie.bx.psu.edu)
+
+version 1.7044
+
+KmerGenie estimates the best k-mer length for genome de novo assembly. 
+
+2. [SPAdes](http://spades.bioinf.spbau.ru/release3.10.1/manual.html#sec2.1)
 
 version 3.10.1
 
 SPAdes – St. Petersburg genome assembler – is an assembly toolkit containing various assembly pipelines. 
 
-2. [trinity](https://github.com/trinityrnaseq/trinityrnaseq/wiki)
+3. [trinity](https://github.com/trinityrnaseq/trinityrnaseq/wiki)
 
 version 2.4.0
 
@@ -44,7 +50,7 @@ Trinity assembles transcript sequences from Illumina RNA-Seq data.
 
 `trinity`  
 
-3. [NOVOPlasty](https://github.com/ndierckx/NOVOPlasty)
+4. [NOVOPlasty](https://github.com/ndierckx/NOVOPlasty)
 
 version 2.6.2
 
@@ -52,13 +58,13 @@ NOVOPlasty is a de novo assembler for short circular genomes.
 
 `novoplasty`
 
-4. [DBG2OLC](https://github.com/yechengxi/DBG2OLC)  
+5. [DBG2OLC](https://github.com/yechengxi/DBG2OLC)  
  
 DBG2OLC:Efficient Assembly of Large Genomes Using Long Erroneous Reads of the Third Generation Sequencing Technologies  
 
 `DBG2OLC` `AssemblyStatistics` `SelectLongestReads` `Sparc` `SparseAssembler`  
 
-5. [CANU](http://canu.readthedocs.io/en/stable/)  
+6. [CANU](http://canu.readthedocs.io/en/stable/)  
 
 Canu 1.6
 
@@ -66,7 +72,7 @@ Canu is a fork of the Celera Assembler designed for high-noise single-molecule s
 
 `canu`
 
-6. [minimap/miniasm](https://github.com/lh3/miniasm)  
+7. [minimap/miniasm](https://github.com/lh3/miniasm)  
 
 minimap version 0.2-r124-dirty
 
@@ -76,7 +82,7 @@ Miniasm is a very fast OLC-based de novo assembler for noisy long reads.
 
 `minimap` `miniasm`  
 
-7. [PLATANUS](http://platanus.bio.titech.ac.jp/)  
+8. [PLATANUS](http://platanus.bio.titech.ac.jp/)  
 
 PLATform for Assembling NUcleotide Sequences
 
@@ -84,13 +90,13 @@ Read more: Kajitani R, Toshimoto K, Noguchi H, Toyoda A, Ogura Y, Okuno M, Yaban
 
 *under construction*  
 
-8. [sspace](https://github.com/nsoranzo/sspace_basic)  
+9. [sspace](https://github.com/nsoranzo/sspace_basic)  
 
 SSPACE is a script able to extend and scaffold pre-assembled contigs using one or more mate pairs or paired-end libraries, or even a combination.  
 
 `perl /opt/sspace_basic/SSPACE_Basic.pl`  
 
-9. [Pilon](https://github.com/broadinstitute/pilon/wiki)  
+10. [Pilon](https://github.com/broadinstitute/pilon/wiki)  
 
 version 1.22
 
@@ -98,7 +104,7 @@ Pilon is a software tool which can be used to (1) automatically improve draft as
 
 `pilon`  
 
-10. [QUAST](http://quast.sourceforge.net/quast.html)
+11. [QUAST](http://quast.sourceforge.net/quast.html)
 
 version 4.5
 
@@ -106,7 +112,7 @@ QUAST evaluates genome assemblies
 
 `quast`  
 
-11. [CGAL](https://pachterlab.github.io/cgal/)   
+12. [CGAL](https://pachterlab.github.io/cgal/)   
 
 CGAL is a tool for computing genome assembly likelihoods. It computes the likelihood of reads with respect to the assembly and a statistical model which can be used as a metric for evaluating assemblies.  
 
