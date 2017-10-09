@@ -118,6 +118,12 @@ CGAL is a tool for computing genome assembly likelihoods. It computes the likeli
 
 *unser construction*  
 
+13. [SOAPdenovo](https://github.com/aquaskyline/SOAPdenovo2)  
+
+Version 2.04
+
+Next generation sequencing reads de novo assembler.
+
 ## mapping ##
 
 1. [bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml)
