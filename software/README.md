@@ -6,6 +6,8 @@
 
 [Genomics](ngs.md)
 
+[Scripts](scripts.md)
+
 1. [blast](https://www.ncbi.nlm.nih.gov/books/NBK279690/)
 
 version 2.2.31+
