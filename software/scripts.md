@@ -12,6 +12,6 @@ Script removes contigs smaller than the selected size (n).
 
 3. blast_parse.pl
 
-`perl /opt/script/blast_parse.pl <input> > <out>`  
+`perl /opt/script/blastparse.pl <input> > <out>`  
 
 To change parameters you have to copy the script to your directory and edit the file. 
