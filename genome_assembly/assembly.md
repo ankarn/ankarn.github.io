@@ -10,9 +10,15 @@ version 3.10.1
 
 SPAdes – St. Petersburg genome assembler – is an assembly toolkit containing various assembly pipelines. 
 
-You can start with that command line, -o output, -t numer of threads 
+You can start with that command line:
 
-`spades -k 21,33,55,77,99,127 --only-assembler -o -1 -2 -t 4 `  
+`spades -k 21,33,55,77,99,127 --only-assembler -o your_assembly_file.fasta -1 your_reads_left.fastq -2 your_reads_right.fastq -t 4 `
+
+Let's add a little bit of explanation here:  
+"-k X,Y,Z" is the parameter that defines the length of k-mers into which the reads are divided by the assembler. For each number specified here, it will produce a slightly different assembly and select the best one (most probably the one based on 127-nucleotide-long k-mers) as "final", although the "non-final" assemblies are also saved and accessible. You can compare the assemblies' overall quality using QUAST.  
+"-o" is the output, you can name it whatever you like.  
+"-1 (...).fastq" and "-2 (...).fastq" are the paths to the files containing your raw reads, i.e. the input files for the assembly.  
+"-t N" is the number of cores of the server you wish to run the assembler on. Anthriscus has 64 cores (I guess), but remember that other people might be using it and 4 cores are more than enough for this tool.
 
 3. Ray  
 [Ray](http://denovoassembler.sourceforge.net/manual.html)
