@@ -13,6 +13,8 @@ This is how the report should look like:
 
 ![Screenshot](ankarn.github.io/quastreport.jpg)
 
+What's quite convenient is that every parameter in every assembly is highlighted with a color corresponding to its quality - you will not need to estimate if a value is good or bad by yourself. As it was mentioned before, the K127 assembly is most likely the best one in terms of all or at least a majority of parameters.
+
 N50  
 
 2. bandage
