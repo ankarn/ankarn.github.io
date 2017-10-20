@@ -1,11 +1,19 @@
 # Estimation of the genome assembly quality
 
 1. [QUAST](http://bioinf.spbau.ru/quast)  
-Useful tool for comparison of basic metrics of assemblies  
+Useful tool for comparison of basic metrics of assemblies, as mentioned in the previous chapter. The command should be like this:  
 
-`quast.py assembly_file`  
+`quast.py assembly_file.fasta`  
+
+Note: you can (and you should) run QUAST on multiple assemblies at once, but for some reason it will run only if all input files are in the same folder (so `quast.py *.fasta` is fine, but `quast.py */*.fasta` is not).
 
 Output  
+
+This is how the report should look like:
+
+![Screenshot](ankarn.github.io/quastreport.jpg)
+
+What's quite convenient is that every parameter in every assembly is highlighted with a color corresponding to its quality - you will not need to estimate if a value is good or bad by yourself. As it was mentioned before, the K127 assembly is most likely the best one in terms of all or at least a majority of parameters.
 
 N50  
 

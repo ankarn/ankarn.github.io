@@ -9,8 +9,15 @@ Not always (but most likely) the TruSeq3-PE-2.fa file contains your adaptors, yo
 
 ### Options  
 
+Trimmomatic's parameters might require a little more explanation.  
+The three numbers that go after ILLUMINACLIP and the path to adapters are the parameters for removal of adapters and you're most likely not going to change them ever, unless, for example, the adapter sequence in your results is not 30 nucleotides long. If it isn't, just change the "30" in the command above to the appropriate value.  
+The LEADING/TRAILING parameters stand for the cutoff quality value for first and last (respectively) nucleotides below which they will be removed. As their quality is usually poor, it is advised not to set these parameters to high values (like 20), but rather 2 or 3 in order to remove nucleotides which have absolutely no informative value at all (a score of 1 means more or less "completely random").  
+The two SLIDINGWINDOW parameters stand for the length of the scanning window and mean cutoff quality value for the entire window for the tool's quality check procedure, e.g. for SLIDINGWINDOW:4:15 the reads are divided into 4-nucleotide segments and if the mean quality per nucleotide in such a window is below 15, the segment is discarded. Briefly saying, the lower the first value and the higher the second one, the higher amount of sequences will be recognized as poor quality and discarded. When setting these parameters, it's crucially important to keep the balance between strict quality control and loss of a significant portion of data that might result from setting a very high cutoff quality value.  
+MINLEN parameter is basically the minimum length of a sequence - anything shorter than the specified value will be discarded. In a decent set of data, this value can be set to up to 80 and the removed sequences will be as little as 0.1% of the total obtained data.  
 
-### Comments: MINLEN parameter should be always in the end of the command line  
+### Comments: MINLEN parameter should be always in the end of the command line.
+
+### Also, it is advised to run fastqc once again after trimming to take a closer look at what really happened. Since different parameters may have a huge impact on the output and there are no universally optimal values, it might be necessary to run this tool multiple times before a satisfactory result is obtained.
 
 ### Output
 
