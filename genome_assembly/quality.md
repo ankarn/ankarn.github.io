@@ -15,24 +15,31 @@ This is how the report should look like:
 
 What's quite convenient is that every parameter in every assembly is highlighted with a color corresponding to its quality - you will not need to estimate if a value is good or bad by yourself. As it was mentioned before, the K127 assembly is most likely the best one in terms of all or at least a majority of parameters.
 
-N50  
+N50 - under construction  
 
-2. bandage
+2. Bandage - under construction
 
 3. mapping reads 
 
 [bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml)   
 
-generowanie indeksu   
-`bowtie2-build <genom.fasta> <nazwa indeksu>`   
+Bowtie2 is a tool for mapping of sequences onto the assembled genome, which is done by a two-step procedure: making a set of BT2 index files and making a SAM mapping file.  
+For the first step, the command should be like this:
 
-`bowtie2 -x <nazwa indeksu> -1 <ścieżka dostępu/reads_1.fq> -2 <ścieżka dostępu/reads_2.fq> -S <nazwa.sam>`   
- 
-dla odczytów połączonych (np. po obróbce w programie PEAR) komenda:   
- 
-`bowtie2 -x <nazwa indeksu> -U <ścieżka dostępu/reads.fq> -S <nazwa.sam>`   
+`bowtie2-build <genome_assembly.fasta> <index_name>`   
 
-[STAR](https://github.com/alexdobin/STAR)   
+Note: this command will produce more than one file - the output files will be named index_name.1.bt2, index_name.2.bt2 and so on. This is very important for the next step, where the outputs are required as an input, but they should be addressed in a rather non-intuitive way - they go after "-x", but despite them being multiple files with partially identical names, you CAN'T put the asterisk in their name as it's usually done in the command line. In brief, use only the index_name, but not index_name* or index_name*.bt2.  
+This is the command for the second step:
+
+`bowtie2 -x <index_name> -1 <folder/reads_1.fastq> -2 <folder/reads_2.fastq> -S <mapping.sam>`   
+
+The files that are addressed after -1 and -2 are your original data obtained from the sequencing, which are the UNASSEMBLED reads. For the reads merged with PEAR, the command should be slightly different:   
+ 
+`bowtie2 -x <index_name> -U <folder/reads.fq> -S <mapping.sam>`   
+
+Unlike the .bt2 index files, the output in SAM format is human-readable, so you can do a quick quality check here. The file should consist of two parts: headers, which are lines starting with @, and alignments, which are nucleotide sequences, sequence IDs, scores and a few more numbers - something that looks like a little more elaborate version of FASTQ. If there's something clearly wrong with the SAM - e.g. there are only headers in the file - you should check if the input files you used are consistent with each other, or in simple words, if the assembly used for indexing (1st part) is the assembly you generated from the reads used for mapping (2nd part). Files can get mixed up sometimes.  
+
+[STAR](https://github.com/alexdobin/STAR); under construction   
 
 utworzyć folder, w którym będzie indeks   
 `mkdir <nazwa>`    
