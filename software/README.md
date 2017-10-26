@@ -14,7 +14,8 @@ version 2.2.31+
 
 Basic Local Alignment Search Tool (BLAST) is probably the most popular similarity search tool. Sequence similarity searching is one of the more important bioinformatics activities and often provides the first evidence for the function of a newly sequenced gene or piece of sequence. 
 
-`blastn` `blastp` `blastx` `tblastn` `makeblastdb` `blastdbcmd`  
+`blastn` `blastp` `blastx` `tblastn`  
+`makeblastdb` `blastdbcmd`  
 
 2. [diamond](https://github.com/bbuchfink/diamond)  
 
