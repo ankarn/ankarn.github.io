@@ -14,7 +14,7 @@ The next step is creating a table with results:
   For a visualization of the results and a basic statistic of taxa that the sequences are associated with, use:  
   `/opt/blobtools/blobtools blobplot -i filename.blobDB.json`  
   (We're going to elaborate a little more on these results soon)  
-  Now, since blobtools is a tool for detection (and quantification) of contamination in the data, it would be rather convenient to also mention how to remove the contaminating sequences. For example, let's assume that blobtools associated some of the sequences with Firmicutes. To remove these sequences from your assembly, you can use a set of commands:  
+  Now, since blobtools is a tool for detection (and quantification) of contamination in the data, it would be rather convenient to also mention how to remove the contaminating sequences. For example, let's assume that blobtools associated some of the sequences with Firmicutes and you're pretty sure that's not what you're looking for in the data. To remove these sequences from your assembly, you can use a set of commands:  
   `grep -v "Firmicutes" blobtools_view_output.blobDB.table.txt > blobtools_table_without_firmicutes.txt`  
   `cut -f 1,1 blobtools_table_without_firmicutes.txt > node_names.txt`  
   `/opt/scripts/fasta_tool --select node_names.txt assembly.fasta > assembly_clean.fasta`  
