@@ -209,7 +209,7 @@ version 2.25.0
 
 MEGAHIT: An ultra-fast single-node solution for large and complex metagenomics assembly via succinct de Bruijn graph  
 
-#ONLY CICUTA#
+*only cicuta*
 
 
 
