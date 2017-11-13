@@ -201,7 +201,13 @@ SAM Tools provide various utilities for manipulating alignments in the SAM forma
 
 5. [bedtools](http://bedtools.readthedocs.io/en/latest/)
 
-version 2.25.0
+version 2.25.0  
+
+## metagenomics ##  
+
+1. [megahit](https://github.com/voutcn/megahit)  
+
+MEGAHIT: An ultra-fast single-node solution for large and complex metagenomics assembly via succinct de Bruijn graph  
 
 
 
