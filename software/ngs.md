@@ -203,6 +203,12 @@ SAM Tools provide various utilities for manipulating alignments in the SAM forma
 
 version 2.25.0  
 
+6. [prinseq](http://prinseq.sourceforge.net/Data_preprocessing.pdf)  
+
+PRINSEQ-lite 0.20.4  
+
+PRINSEQ will help you to preprocess your genomic or metagenomic sequence data in FASTA or FASTQ format  
+
 ## metagenomics ##  
 
 1. [megahit](https://github.com/voutcn/megahit)  
