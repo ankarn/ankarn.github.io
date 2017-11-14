@@ -209,6 +209,12 @@ PRINSEQ-lite 0.20.4
 
 PRINSEQ will help you to preprocess your genomic or metagenomic sequence data in FASTA or FASTQ format  
 
+7. [BBMap](https://github.com/BioInfoTools/BBMap)  
+
+BBMap short read aligner, and other bioinformatic tools.  
+
+`/opt/BBMap/`
+
 ## metagenomics ##  
 
 1. [megahit](https://github.com/voutcn/megahit)  
