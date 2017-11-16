@@ -1,11 +1,14 @@
 # Databases #  
 
 
- 1. NCBI nucleotide database (nt)
+ 1. NCBI nucleotide database nt & nr
  
 October 2017  
  
  `/mnt/databases/NCBI/nt`  
+ 
+ `/mnt/databases/NCBI/nr`
+
  
  2. MMETSP - Marine Microbial Transcriptomes  
  
