@@ -215,7 +215,9 @@ BBMap short read aligner, and other bioinformatic tools.
 
 `/opt/BBMap/`
 
-## metagenomics ##  *installed only on cicuta*
+## metagenomics ##  
+
+*installed only on cicuta*
 
 1. [megahit](https://github.com/voutcn/megahit)  
 
