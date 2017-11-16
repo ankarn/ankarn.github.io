@@ -215,13 +215,19 @@ BBMap short read aligner, and other bioinformatic tools.
 
 `/opt/BBMap/`
 
-## metagenomics ##  
+## metagenomics ##  *installed only on cicuta*
 
 1. [megahit](https://github.com/voutcn/megahit)  
 
 MEGAHIT: An ultra-fast single-node solution for large and complex metagenomics assembly via succinct de Bruijn graph  
 
-*only cicuta*
+2. [metabat2](https://bitbucket.org/berkeleylab/metabat)  
+
+version 2.12.1  
+
+MetaBAT, an efficient tool for accurately reconstructing single genomes from complex microbial communities  
+
+
 
 
 
