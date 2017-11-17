@@ -237,4 +237,8 @@ Fast, reliable protein-coding gene prediction for prokaryotic genomes.
 
 4. [pplacer](https://github.com/matsen/pplacer)
 
-Phylogenetic placement and downstream analysis.
+Phylogenetic placement and downstream analysis.  
+
+5. [recycler](https://github.com/Shamir-Lab/Recycler)  
+
+Recycler is a tool designed for extracting circular sequences from de novo assembly graphs. It can be applied on isolate as well as metagenome and plasmidome data. The circular sequences it outputs may be plasmids, phages, etc.   
