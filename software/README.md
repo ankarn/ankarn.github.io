@@ -25,10 +25,11 @@ DIAMOND is a sequence aligner for protein and translated DNA searches and functi
 
 3. [sra-toolkit](https://www.ncbi.nlm.nih.gov/books/NBK158900/)
 
-version 2.3.5-2
+version 2.3.5-2  
 
 The SRA Toolkit will allow you to programmatically access data housed within SRA and convert it from the SRA format to the other formats.
 
+*Update is needed, under construction*  
 
 4. [cdhit](http://weizhongli-lab.org/cd-hit/)
 
@@ -72,4 +73,3 @@ tmux is a terminal multiplexer. It lets you switch easily between several progra
  
  Biopython is a set of freely available tools for biological computation written in Python.  
  
-[Databases](databases.md)  
