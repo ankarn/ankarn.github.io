@@ -242,3 +242,6 @@ Phylogenetic placement and downstream analysis.
 5. [recycler](https://github.com/Shamir-Lab/Recycler)  
 
 Recycler is a tool designed for extracting circular sequences from de novo assembly graphs. It can be applied on isolate as well as metagenome and plasmidome data. The circular sequences it outputs may be plasmids, phages, etc.   
+
+`/opt/Recycler/bin/recycler.py`  
+
