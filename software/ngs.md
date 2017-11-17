@@ -227,11 +227,10 @@ MEGAHIT: An ultra-fast single-node solution for large and complex metagenomics a
 
 version 2.12.1  
 
-MetaBAT, an efficient tool for accurately reconstructing single genomes from complex microbial communities  
+MetaBAT, an efficient tool for accurately reconstructing single genomes from complex microbial communities 
 
+3. [prodigal](https://github.com/hyattpd/Prodigal)  
 
+version 2.6.2  
 
-
-
-
-
+Fast, reliable protein-coding gene prediction for prokaryotic genomes.
