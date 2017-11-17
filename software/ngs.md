@@ -233,4 +233,8 @@ MetaBAT, an efficient tool for accurately reconstructing single genomes from com
 
 version 2.6.2  
 
-Fast, reliable protein-coding gene prediction for prokaryotic genomes.
+Fast, reliable protein-coding gene prediction for prokaryotic genomes.  
+
+4. [pplacer](https://github.com/matsen/pplacer)
+
+Phylogenetic placement and downstream analysis.
