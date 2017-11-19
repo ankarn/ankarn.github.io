@@ -75,3 +75,7 @@ tmux is a terminal multiplexer. It lets you switch easily between several progra
  
  Biopython is a set of freely available tools for biological computation written in Python.  
  
+ 10. cmake
+ 
+ version 3.9.6
+ 
