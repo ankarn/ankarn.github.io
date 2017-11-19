@@ -75,7 +75,9 @@ tmux is a terminal multiplexer. It lets you switch easily between several progra
  
  Biopython is a set of freely available tools for biological computation written in Python.  
  
- 10. cmake
+ 10. [cmake](https://cmake.org/overview/)
  
- version 3.9.6
+ version 3.9.6  
+ 
+ CMake is an extensible, open-source system that manages the build process in an operating system and in a compiler-independent manner. 
  
