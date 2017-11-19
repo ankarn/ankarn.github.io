@@ -25,11 +25,13 @@ DIAMOND is a sequence aligner for protein and translated DNA searches and functi
 
 3. [sra-toolkit](https://www.ncbi.nlm.nih.gov/books/NBK158900/)
 
-version 2.3.5-2  
+version 2.8.2
 
 The SRA Toolkit will allow you to programmatically access data housed within SRA and convert it from the SRA format to the other formats.
 
-*Update is needed, under construction*  
+*use the version installed in the opt*
+
+`/opt/sratoolkit.2.8.2-1-ubuntu64/bin/`
 
 4. [cdhit](http://weizhongli-lab.org/cd-hit/)
 
