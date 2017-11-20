@@ -64,6 +64,16 @@ DBG2OLC:Efficient Assembly of Large Genomes Using Long Erroneous Reads of the Th
 
 `DBG2OLC` `AssemblyStatistics` `SelectLongestReads` `Sparc` `SparseAssembler`  
 
+dependencies  
+
+[blasr](https://github.com/PacificBiosciences/blasr)  
+
+BLASR: The PacBio® long read aligner 
+
+[pbdgacon](https://github.com/PacificBiosciences/pbdagcon)  
+
+A sequence consensus algorithm implementation based on using directed acyclic graphs to encode multiple sequence alignment  
+
 6. [CANU](http://canu.readthedocs.io/en/stable/)  
 
 Canu 1.6
