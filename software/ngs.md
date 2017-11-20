@@ -223,7 +223,11 @@ PRINSEQ will help you to preprocess your genomic or metagenomic sequence data in
 
 BBMap short read aligner, and other bioinformatic tools.  
 
-`/opt/BBMap/`
+`/opt/BBMap/`  
+
+8. [bcftools](https://samtools.github.io/bcftools/bcftools.html)  
+
+BCFtools is a set of utilities that manipulate variant calls in the Variant Call Format (VCF) and its binary counterpart BCF.  
 
 ## metagenomics ##  
 
