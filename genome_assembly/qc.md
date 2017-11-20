@@ -13,6 +13,7 @@ It should look more or less like that:
 ![Screenshot](../lib/qc_screen.png)
 
 Most "chapters" of the results are rather self-explanatory, but just in case the vocabulary used there does not seem so, here's a short guide:  
+
 SCORES are given as Phred quality values, which are logarithmic representations of error probability (more [here](https://en.wikipedia.org/wiki/Phred_quality_score)). Technically speaking, they could go up to infinity (as does a logarithmic function); however, in fastqc there's a clear cutoff on the value of 40 - this is because a score of 40 is equal to error probability of 1 in 10 000, which in practice translates to "as good as it could ever be".  
 
 TILES are physical locations on the matrix inside the Illumina sequencing machine. Quality per tile is most likely not informative in any way for the user, but a very poor score for a specific tile in consecutive runs of the sequencer might indicate a hardware fault, which would be worth reporting to the machine's owner.  
