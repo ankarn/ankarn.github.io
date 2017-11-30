@@ -132,7 +132,31 @@ CGAL is a tool for computing genome assembly likelihoods. It computes the likeli
 
 Version 2.04
 
-Next generation sequencing reads de novo assembler.
+Next generation sequencing reads de novo assembler.  
+
+14. [MIRA](http://mira-assembler.sourceforge.net/docs/DefinitiveGuideToMIRA.html)  
+
+version 4.0.0 (the newest version 4.0.2 is not working properly)
+
+MIRA is a multi-pass DNA sequence data assembler/mapper for whole genome and EST/RNASeq projects.
+
+*cicuta only*  
+
+15. [edena](http://www.genomic.ch/edena.php) 
+
+vesrion 3  
+
+de novo short reads assembler  
+
+*cicuta only*  
+
+16. [velvet](https://www.ebi.ac.uk/~zerbino/velvet/)  
+
+version 1.2.10  
+
+Velvet is a de novo genomic assembler specially designed for short read sequencing technologies, such as Solexa or 454.
+
+*cicuta only*
 
 ## mapping ##
 
