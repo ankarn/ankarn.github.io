@@ -291,3 +291,13 @@ Recycler is a tool designed for extracting circular sequences from de novo assem
 
 `/opt/Recycler/bin/recycler.py`  
 
+## Annotation ##  
+
+*under construction*
+
+1. RepeatModeler  
+
+2. RepeatMasker  
+
+
+
