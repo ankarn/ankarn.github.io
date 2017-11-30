@@ -156,6 +156,14 @@ version 1.2.10
 
 Velvet is a de novo genomic assembler specially designed for short read sequencing technologies, such as Solexa or 454.
 
+*cicuta only*  
+
+17. [GRAbB](https://github.com/b-brankovics/grabb#installation)  
+
+GRAbB (Genome Region Assembly by Baiting) is program designed to assemble selected regions of the genome or transcriptome using reference sequences and NGS data.  
+
+`grabb`
+
 *cicuta only*
 
 ## mapping ##
