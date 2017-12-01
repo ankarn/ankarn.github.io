@@ -9,7 +9,7 @@
 5. [Evaluating genome assembly quality](quality.md)
 6. [Contamination estimation](contamination.md)
 7. [Completeness estimation](completeness.md)
-8. Gene prediction(genpred.md)
-9. Repetitive elements(rep.md)
-9. Functional annotation
-10. Visualization
+8. [Gene prediction](genpred.md)
+9. [Repetitive elements](rep.md)
+10. Functional annotation
+11. Visualization
