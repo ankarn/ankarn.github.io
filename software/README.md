@@ -6,7 +6,7 @@
 
 [Genomics](ngs.md)  
 
-[Metagenomics](metagenomics)
+[Metagenomics](metagenomics.md)
 
 [Scripts](scripts.md)
 
