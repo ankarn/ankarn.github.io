@@ -4,7 +4,9 @@
 
 [Phylogenetics](phylogeny.md)
 
-[Genomics](ngs.md)
+[Genomics](ngs.md)  
+
+[Metagenomics](metagenomics)
 
 [Scripts](scripts.md)
 
