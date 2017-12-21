@@ -112,7 +112,7 @@ version 1.22
 
 Pilon is a software tool which can be used to (1) automatically improve draft assemblies and (2) find variation among strains, including large event detection.  
 
-`pilon`  
+`java -jar /opt/pilon-1.22.jar`  
 
 11. [QUAST](http://quast.sourceforge.net/quast.html)
 
@@ -166,9 +166,15 @@ GRAbB (Genome Region Assembly by Baiting) is program designed to assemble select
 
 *cicuta only*  
 
-18. REAPR  
+18. [REAPR](http://www.sanger.ac.uk/science/tools/reapr) 
 
-*under construction*
+version: 1.0.18  
+
+REAPR is a tool that evaluates the accuracy of a genome assembly using mapped paired end reads, without the use of a reference genome for comparison. It can be used in any stage of an assembly pipeline to automatically break incorrect scaffolds and flag other errors in an assembly for manual inspection. It reports mis-assemblies and other warnings, and produces a new broken assembly based on the error calls. 
+
+`reapr`
+
+*cicuta only*
 
 ## mapping ##
 
