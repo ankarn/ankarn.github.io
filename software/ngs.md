@@ -164,7 +164,11 @@ GRAbB (Genome Region Assembly by Baiting) is program designed to assemble select
 
 `grabb`
 
-*cicuta only*
+*cicuta only*  
+
+18. REAPR  
+
+*under construction*
 
 ## mapping ##
 
@@ -263,11 +267,33 @@ BCFtools is a set of utilities that manipulate variant calls in the Variant Call
 
 ## Annotation ##  
 
-*under construction*
+*cicuta only*
 
-1. RepeatModeler  
+1. [RepeatModeler](http://www.repeatmasker.org/RepeatModeler/) 
 
-2. RepeatMasker  
+version open-1.0.11  
+
+RepeatModeler is a de-novo repeat family identification and modeling package. At the heart of RepeatModeler are two de-novo repeat finding programs ( RECON and RepeatScout ) which employ complementary computational methods for identifying repeat element boundaries and family relationships from sequence data.  
+
+`RepeatModeler`
+
+2. [RepeatMasker](http://www.repeatmasker.org)  
+
+version open-4.0.7  
+
+RepeatMasker is a program that screens DNA sequences for interspersed repeats and low complexity DNA sequences. The output of the program is a detailed annotation of the repeats that are present in the query sequence as well as a modified version of the query sequence in which all the annotated repeats have been masked (default: replaced by Ns).  
+
+`RepeatMasker`  
+
+3. [CIRI](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0571-3)  
+
+Version:  2.0.6  
+
+CIRI: an efficient and unbiased algorithm for de novo circular RNA identification  
+
+`perl /opt/CIRI_v2.0.6/CIRI2.pl`  
+
+
 
 
 
