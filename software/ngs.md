@@ -102,9 +102,11 @@ Read more: Kajitani R, Toshimoto K, Noguchi H, Toyoda A, Ogura Y, Okuno M, Yaban
 
 9. [sspace](https://github.com/nsoranzo/sspace_basic)  
 
+version 3.0  
+
 SSPACE is a script able to extend and scaffold pre-assembled contigs using one or more mate pairs or paired-end libraries, or even a combination.  
 
-`perl /opt/sspace_basic/SSPACE_Basic.pl`  
+`perl /opt/SSPACE-STANDARD-3.0_linux-x86_64/SSPACE_Standard_v3.0.pl`  
 
 10. [Pilon](https://github.com/broadinstitute/pilon/wiki)  
 
