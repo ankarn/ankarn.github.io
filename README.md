@@ -8,6 +8,7 @@ perform a [genome assembly](genome_assembly/)
 perform a [transcriptome assembly](transcriptome_assembly/)  
 [annotate genome](annotation)  
 build a [phylogenetic tree](tree/)  
+[variant doscovery](variants/)
 
 
 
