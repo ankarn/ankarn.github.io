@@ -10,7 +10,7 @@
 
 basic command for ML tree on nucleotide sequences with fast bootstrap  
 
-`raxmlHPC-PTHREADS-SSE3 -f a -m GTRCAT -p 12345 -x 12345 -# 100 -s name.aln.fasta -n name`  
+`raxmlHPC-PTHREADS-SSE3 -T 4 -m GTRCAT -c 25 -e 0.001 -p 31415 -f a -N 100 -x 02938 -n name -s name.aln.fas`
 
 5. IQtree
 6. PhyloBayes
