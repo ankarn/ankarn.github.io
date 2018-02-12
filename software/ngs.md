@@ -98,7 +98,9 @@ PLATform for Assembling NUcleotide Sequences
 
 Read more: Kajitani R, Toshimoto K, Noguchi H, Toyoda A, Ogura Y, Okuno M, Yabana M, Harada M, Nagayasu E, Maruyama H, Kohara Y, Fujiyama A, Hayashi T, Itoh T, “Efficient de novo assembly of highly heterozygous genomes from whole-genome shotgun short reads”. Genome Res. 2014 Aug;24(8):1384-95. doi: 10.1101/gr.170720.113. 
 
-*under construction*  
+`platanus` `platanus_trim`  
+
+*cicuta only*  
 
 9. [sspace](https://github.com/nsoranzo/sspace_basic)  
 
