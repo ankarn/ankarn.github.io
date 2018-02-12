@@ -1,4 +1,9 @@
-# How to annotate
+# Gene  prediction  
+
+de novo gene prediction Augustus  
+
+
+# Functional annotation  
 
 1. genome
 2. organellar genome
