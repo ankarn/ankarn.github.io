@@ -39,3 +39,4 @@ k-SLAM ultra fast alignment and taxonomic classification of metagenomic datasets
 phyloFlash is a pipeline to rapidly reconstruct the SSU rRNAs and explore phylogenetic composition of an Illumina (meta)genomic or transcriptomic dataset. 
 
 `perl /opt/phyloFlash-pf3.0b1/phyloFlash.pl`
+`-dbhome /mnt/databases/SILVA/`
