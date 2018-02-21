@@ -33,3 +33,9 @@ Recycler is a tool designed for extracting circular sequences from de novo assem
 k-SLAM ultra fast alignment and taxonomic classification of metagenomic datasets  
 
 `SLAM`
+
+7. [phyloFlash](https://github.com/HRGV/phyloFlash)  
+
+phyloFlash is a pipeline to rapidly reconstruct the SSU rRNAs and explore phylogenetic composition of an Illumina (meta)genomic or transcriptomic dataset. 
+
+`perl /opt/phyloFlash-pf3.0b1/phyloFlash.pl`
