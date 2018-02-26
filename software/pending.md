@@ -24,4 +24,4 @@ tmhmm-2.0c
 trinotate  
 trnascan-1.4  
 qiime  
-databases: MMTESP - new assemblies download, PFAM, rfam
+databases:PFAM, rfam
