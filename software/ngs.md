@@ -303,6 +303,10 @@ CIRI: an efficient and unbiased algorithm for de novo circular RNA identificatio
 
 `perl /opt/CIRI_v2.0.6/CIRI2.pl`  
 
+4. [STARChip](https://github.com/LosicLab/STARChip)  
+
+This software is designed to take the chimeric output from the STAR alignment tool and discover high confidence fusions and circular RNA in the data.   
+
 
 
 
