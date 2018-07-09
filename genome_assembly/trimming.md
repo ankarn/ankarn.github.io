@@ -2,7 +2,7 @@
 
 1. [Trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic)
 
-`trimmomatic PE <lef_reads.fastq> <right_reads.fastq> <left_paired.fastq> <left_unpaired.fastq> <right_paired.fastq> <right_unpaired.fastq> ILLUMINACLIP:<path_to_adaptors>:2:30:9 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:15 MINLEN:25
+`trimmomatic PE <left_reads.fastq> <right_reads.fastq> <left_paired.fastq> <left_unpaired.fastq> <right_paired.fastq> <right_unpaired.fastq> ILLUMINACLIP:<path_to_adaptors>:2:30:9 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:15 MINLEN:25
 `
 Path to adaptros: `/opt/trinityrnaseq/trinity-plugins/Trimmomatic/adapters/TruSeq3-PE-2.fa`  
 Not always (but most likely) the TruSeq3-PE-2.fa file contains your adaptors, you might want to check, which file with adaptors you should use before running trimming. 
