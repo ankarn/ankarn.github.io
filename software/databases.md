@@ -5,9 +5,9 @@
  
 October 2017  
  
- `/mnt/databases/NCBI/nt`  
+ `/mnt/databases/NCBI/nt/nt`  
  
- `/mnt/databases/NCBI/nr`
+ `/mnt/databases/NCBI/nr/nr`
 
  
  2. MMETSP - Marine Microbial Transcriptomes  
