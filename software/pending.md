@@ -17,7 +17,7 @@ psipred
 PSORT-II-PSORT-II  
 rnammer-1.2  
 secretomep-1.0  
-signalp-4.1  
+signalp-4.1  - installed on cicuta, not on anthriscus
 targetp-26264  
 tbl2asn  
 tmhmm-2.0c  
