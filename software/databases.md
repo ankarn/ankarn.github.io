@@ -25,5 +25,3 @@ October 2017
  A comprehensive on-line resource for quality checked and aligned ribosomal RNA sequence data.
  
  `/mnt/databases/SILVA/`
- 
- 
