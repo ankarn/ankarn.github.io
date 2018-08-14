@@ -10,6 +10,8 @@
 
 [Variant calling](variants.md)
 
+[Annotation](annot.md)
+
 [Scripts](scripts.md)
 
 [Under construction](pending.md)
