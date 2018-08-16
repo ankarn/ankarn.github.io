@@ -25,3 +25,13 @@ October 2017
  A comprehensive on-line resource for quality checked and aligned ribosomal RNA sequence data.
  
  `/mnt/databases/SILVA/`
+
+4. [BUSCO](https://busco.ezlab.org/)  
+
+`/mnt/databases/BUSCO/xxxx`  
+
+currently available databases: 
+eukaryota_odb9  
+protists_ensembl  
+
+to download: insects
