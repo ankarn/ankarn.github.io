@@ -28,7 +28,7 @@ Assessing genome assembly and annotation completeness with Benchmarking Universa
 
 `BUSCO`
 
-remember to select appropriate database[databases.md]
+remember to select appropriate database (databases.md)
 
 ## genome and transcriptome assembly ##
 
