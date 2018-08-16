@@ -30,7 +30,7 @@ October 2017
 
 `/mnt/databases/BUSCO/xxxx`  
 
-currently available databases: 
+currently available databases:  
 eukaryota_odb9  
 protists_ensembl  
 
