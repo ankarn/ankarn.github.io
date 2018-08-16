@@ -26,7 +26,9 @@ A modular command-line solution for visualisation, quality control and taxonomic
 
 Assessing genome assembly and annotation completeness with Benchmarking Universal Single-Copy Orthologs (BUSCO)
 
-*under construction*  
+`BUSCO`
+
+remember to select appropriate database[databases.md]
 
 ## genome and transcriptome assembly ##
 
