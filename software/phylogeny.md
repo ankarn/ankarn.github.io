@@ -65,7 +65,7 @@ Selects regions in a multiple sequence alignment that are suited for phylogeneti
 
 `bmge -?`  
 
-11. 7. [concaterpillar.py](http://rogerlab.biochemistryandmolecularbiology.dal.ca/Software/Software.htm#Concaterpillar)  
+11. [concaterpillar.py](http://rogerlab.biochemistryandmolecularbiology.dal.ca/Software/Software.htm#Concaterpillar)  
 
 
 Assessment of congruence for protein alignment concatenation.
