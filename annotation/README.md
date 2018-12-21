@@ -9,12 +9,24 @@ de novo gene prediction Augustus
 2. organellar genome
 3. transcriptome
 
-blast  
+## blast  
 
-hmmer  
+## hmmer  
+### 1. Basic usage (???)
+### 2. Searching proteins.fasta with hmm profiles
+There is a pair of scripts in `/home/halakuc/scripts`:
+* `hmmer_them_all.sh`
+Usage: hmmer_them_all.sh -p proteins.fasta --profiles profile1.hmm \[profile#.hmm\] -o outdir
+* `hmmer_parser.py`
+Helper script for the first one.
 
-kegg  
+They produce following output (in outdir):
+* proteins_profile#.out - text output of hmmer
+* proteins_profile#.tblout - table output of hmmer
+* proteins_interesting.fasta - fasta containing all significant hits, header contains protein name and hmmer profile name
 
-pfam  
+## kegg  
+
+## pfam  
 
 
