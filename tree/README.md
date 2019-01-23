@@ -14,3 +14,9 @@ basic command for ML tree on nucleotide sequences with fast bootstrap
 
 5. IQtree
 6. PhyloBayes
+
+
+# How to view a phylogenetic tree
+
+1. [FigTree](http://tree.bio.ed.ac.uk/software/figtree/)
+In case it is not running, you can try [experimental version](https://github.com/rambaut/figtree/releases/tag/v1.4.4pre20171111).
