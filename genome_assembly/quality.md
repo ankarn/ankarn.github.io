@@ -5,7 +5,7 @@ Useful tool for comparison of basic metrics of assemblies, as mentioned in the p
 
 `quast.py assembly_file.fasta`  
 
-Note: you can (and you should) run QUAST on multiple assemblies at once, but for some reason it will run only if all input files are in the same folder (so `quast.py *.fasta` is fine, but `quast.py */*.fasta` is not).
+Note: you can (and you should) run QUAST on multiple assemblies at once, but for some reason it will run only if all input files are in the same folder or you specify exact files (so `quast.py *.fasta` and `quast.py dir1/file1.fasta dir2/file2.fasta [...]` are fine, but `quast.py */*.fasta` is not).
 
 Output  
 
@@ -17,7 +17,16 @@ What's quite convenient is that every parameter in every assembly is highlighted
 
 N50 - under construction  
 
-2. Bandage - under construction
+2. [Bandage](https://rrwick.github.io/Bandage/)
+
+Bandage is a localy run program with functional and user friendly GUI, which runs on Windows, OS and Linux. It allows to view and edit assembly graphs produced by SPAdes or other DBG assemblers. The guide will asume you are using SPAdes, filenames may vary in other assemeblers.
+It requirers assembly_graph.fastg, located in SPAdes output directory on your desktop. After you load the file, there are 4 main ways to view de Brujin graphs:
+- whole graph (not recommended with eukaryotes)
+- around certain nodes (edges)
+- around BLAST hits (requires accessible from command line blast+ package)
+- only nodes in coverage range
+It is important to note, that "nodes" in the graph are not nodes in contigs.fasta. They are EDGES, which can be foun in assembly_graph.fastg. Edges corresponding to nodes can be found in contigs.paths.
+
 
 3. mapping reads 
 
