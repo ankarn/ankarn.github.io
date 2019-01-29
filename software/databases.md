@@ -35,3 +35,12 @@ eukaryota_odb9
 protists_ensembl  
 
 to download: insects
+
+5. [HHsuite](https://github.com/soedinglab/hh-suite)
+
+`/mnt/databases/hhsuite_dbs/xxxx`
+
+HHsuite ready databases, currently installed:
+* pdb70
+* pfamA
+* uniclust30
