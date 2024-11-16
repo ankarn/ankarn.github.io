@@ -1,5 +1,5 @@
 
-# ZFME repository
+# IBE repository
 
 software & databases installed on anthriscus & cicuta [servers](software/) 
 
